@@ -110,7 +110,7 @@ Incluye los siguientes tipos de análisis:
 
 ## 6. `02_ia_abierta_gemma/`
 
-Esta carpeta contiene los experimentos realizados con IA abierta/local. Hemos experimentado con **Gemma en AnythingLLM**.
+Esta carpeta contiene los experimentos realizados con IA abierta. Hemos experimentado con **Gemma en AnythingLLM**.
 
 ```text
 02_ia_abierta_gemma/
@@ -177,16 +177,16 @@ La subcarpeta `notebooklm/` permite guardar:
 └── results/
 ```
 
-## 8. `04_comparacion_metodologica/`
+## 8. `04_comparacion/`
 
 Esta carpeta reúne los scripts, notebooks y resultados de la comparación entre las tres aproximaciones:
 
 1. HD clásicas.
-2. IA abierta/local con Gemma.
+2. IA abierta con Gemma.
 3. IA comercial.
 
 ```text
-04_comparacion_metodologica/
+04_comparacion/
 ├── README.md
 ├── scripts/
 └── results/
@@ -207,16 +207,6 @@ Los aspectos comparados incluyen:
 * trazabilidad;
 * dependencia del prompt;
 * capacidad de aportar citas textuales verificables.
-
-Los resultados comparativos se guardan en:
-
-```text
-04_comparacion_metodologica/results/
-├── tablas_comparativas/
-├── matrices_evaluacion/
-├── figuras_articulo/
-└── informe_comparativo.md
-```
 
 ## 9. Prompts
 
