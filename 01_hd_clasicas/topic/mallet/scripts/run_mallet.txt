@@ -1,0 +1,1 @@
+$env:MALLET_HOME = "C:\Users\Rocio\mallet" C:\Users\Rocio\mallet\bin\mallet.bat train-topics --input nuevo_corpus/topics_filipinas.mallet --num-topics 15 --optimize-interval 10 --output-topic-keys nuevo_corpus/claves_topicos.txt --output-doc-topics nuevo_corpus/composicion_documentos.txt
