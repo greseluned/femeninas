@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-15T18:37:25.843+02:00</Created>
+        <LastChange>2025-10-28T18:11:50.311+01:00</LastChange>
+        <TranskribusMetadata docId="11369022" pageId="104387251" pageNr="4" tsid="259176799" status="FINAL" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GRASRSYELNRCUUWUFJRUSWWO" xmlUrl="https://files.transkribus.eu/Get?id=FLKHHYMTHGEKSUCPKRJBSLFP" imageId="87597047"/>
+    </Metadata>
+    <Page imageFilename="0004_p004.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166528319" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations>
+            <Relation type="link" custom="relationName {value:Article;}">
+                <RegionRef regionRef="r"/>
+                <RegionRef regionRef="r_1"/>
+            </Relation>
+        </Relations>
+        <ImageRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="225,238 2246,238 2246,3092 225,3092"/>
+        </ImageRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="629,3118 1886,3118 1886,3261 629,3261"/>
+            <TextLine id="l" custom="readingOrder {index:0;} person {offset:0; length:11;wikiData:Q173767;}">
+                <Coords points="694,3170 1778,3174 1778,3144 694,3140"/>
+                <Baseline points="694,3170 1778,3174"/>
+                <TextEquiv>
+                    <Unicode>RUBÉN DARÍO EN SU LECHO DE MUERTE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

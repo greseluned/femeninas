@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=419461:lm=provided:date=28_10_2025_17:41</Creator>
+        <Created>2025-10-15T18:37:07.354+02:00</Created>
+        <LastChange>2025-10-28T17:41:30.570+01:00</LastChange>
+        <TranskribusMetadata docId="11368964" pageId="104387282" pageNr="11" tsid="259174281" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DGULGFXZSHEEGFVCIKZJWRHC" xmlUrl="https://files.transkribus.eu/Get?id=MZFFMNXBCYKMMNBXQETEWUYM" imageId="87596923">
+            <PageLabel labelId="111" color="#00FA9A">Text Done</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0011_p011.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166458241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="358,265 2136,265 2136,695 358,695"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="670,437 1749,441 1749,411 670,407"/>
+                <Baseline points="670,437 1749,441"/>
+                <TextEquiv>
+                    <Unicode>NA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="50,1003 2455,1003 2455,2584 50,2584"/>
+        </ImageRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;}">
+            <Coords points="828,2820 1731,2820 1731,2985 828,2985"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="871,2924 1559,2917 1559,2887 871,2894"/>
+                <Baseline points="871,2924 1559,2917"/>
+                <TextEquiv>
+                    <Unicode>PAISAJE NACIONA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

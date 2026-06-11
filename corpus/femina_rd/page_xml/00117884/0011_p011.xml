@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=419461:lm=provided:date=28_10_2025_13:42</Creator>
+        <Created>2025-10-28T13:13:40.386177</Created>
+        <LastChange>2025-10-28T13:42:29.306+01:00</LastChange>
+        <TranskribusMetadata docId="11369020" pageId="104386732" pageNr="11" tsid="259102399" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PWXDACJECJYUNHAJPSDDTLWX" xmlUrl="https://files.transkribus.eu/Get?id=BPKGNSGOPIAVAFENPRANAWFZ" imageId="87596821">
+            <PageLabel labelId="111" color="#00FA9A">Text Done</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0011_p011.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166523415" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761653630"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761653634"/>
+                <RegionRefIndexed index="2" regionRef="tr_1761653631"/>
+                <RegionRefIndexed index="3" regionRef="tr_1761653632"/>
+                <RegionRefIndexed index="4" regionRef="tr_1761653633"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761653630" custom="readingOrder {index:0;}">
+            <Coords points="551,357 1924,357 1924,640 551,640"/>
+            <TextLine id="tr_1761653630_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="677,528 1797,543 1797,593 677,578"/>
+                <Baseline points="677,573 722,570 767,573 812,576 856,576 901,576 946,579 991,573 1035,570 1080,573 1125,570 1170,570 1215,570 1259,573 1304,570 1349,570 1394,567 1439,567 1483,567 1528,567 1573,570 1618,570 1662,567 1707,567 1752,576 1797,588"/>
+                <TextEquiv>
+                    <Unicode>IENINA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761653634" custom="readingOrder {index:1;}">
+            <Coords points="930,1088 1569,1088 1569,1167 930,1167"/>
+            <TextLine id="tr_1761653634_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1095,1095 1331,1089 1331,1139 1095,1145"/>
+                <Baseline points="1095,1140 1107,1143 1152,1143 1197,1140 1241,1137 1286,1137 1331,1134"/>
+                <TextEquiv>
+                    <Unicode>SUMARIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761653631" custom="readingOrder {index:2;}">
+            <Coords points="622,1204 1360,1204 1360,1777 622,1777"/>
+            <TextLine id="tr_1761653631_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="671,1220 1193,1216 1193,1266 671,1270"/>
+                <Baseline points="671,1265 698,1265 743,1268 788,1268 832,1268 877,1268 922,1268 967,1265 1012,1265 1056,1265 1101,1262 1146,1262 1193,1261"/>
+                <TextEquiv>
+                    <Unicode>El Medio Ambiente Social</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653631_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="686,1292 1089,1295 1089,1345 686,1342"/>
+                <Baseline points="686,1337 731,1340 776,1340 821,1337 865,1337 910,1337 955,1337 1000,1337 1044,1337 1089,1340"/>
+                <TextEquiv>
+                    <Unicode>El Arte Medioeval,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653631_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="671,1364 931,1370 931,1420 671,1414"/>
+                <Baseline points="671,1409 716,1409 761,1409 806,1409 850,1412 895,1412 931,1415"/>
+                <TextEquiv>
+                    <Unicode>Arácida.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653631_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="692,1435 1015,1441 1015,1491 692,1485"/>
+                <Baseline points="692,1480 737,1480 782,1480 826,1483 871,1483 916,1483 961,1483 1006,1483 1015,1486"/>
+                <TextEquiv>
+                    <Unicode>Sangre Nueva,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653631_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="659,1504 925,1507 925,1557 659,1554"/>
+                <Baseline points="659,1549 704,1552 749,1555 794,1552 838,1552 883,1552 925,1552"/>
+                <TextEquiv>
+                    <Unicode>A tu Oido.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653631_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="680,1579 970,1579 970,1629 680,1629"/>
+                <Baseline points="680,1624 725,1624 770,1624 815,1624 859,1624 904,1624 949,1627 970,1624"/>
+                <TextEquiv>
+                    <Unicode>Serpentinas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653631_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="677,1653 1021,1656 1021,1706 677,1703"/>
+                <Baseline points="677,1698 722,1695 767,1695 812,1695 856,1695 901,1695 946,1695 991,1698 1021,1701"/>
+                <TextEquiv>
+                    <Unicode>Señor, La Paz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761653632" custom="readingOrder {index:3;}">
+            <Coords points="624,1121 1763,1121 1763,2118 624,2118"/>
+            <TextLine id="tr_1761653632_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1492,1214 1782,1214 1782,1264 1492,1264"/>
+                <Baseline points="1492,1259 1537,1262 1582,1262 1627,1262 1671,1262 1716,1259 1761,1259 1782,1259"/>
+                <TextEquiv>
+                    <Unicode>La Directora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1450,1283 1794,1286 1794,1336 1450,1333"/>
+                <Baseline points="1450,1328 1495,1331 1540,1331 1585,1331 1630,1331 1674,1331 1719,1331 1764,1331 1794,1331"/>
+                <TextEquiv>
+                    <Unicode>Delia M. Weber.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1444,1358 1785,1361 1785,1411 1444,1408"/>
+                <Baseline points="1444,1403 1489,1403 1534,1403 1579,1403 1624,1403 1668,1403 1713,1400 1758,1403 1785,1406"/>
+                <TextEquiv>
+                    <Unicode>Armando Oscar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1331,1426 1785,1432 1785,1482 1331,1476"/>
+                <Baseline points="1331,1471 1376,1471 1421,1474 1465,1474 1510,1471 1555,1474 1600,1474 1645,1471 1689,1471 1734,1474 1779,1474 1785,1477"/>
+                <TextEquiv>
+                    <Unicode>Consuelo M. de Frías.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1322,1501 1797,1501 1797,1551 1770,1554 1322,1551"/>
+                <Baseline points="1322,1546 1367,1546 1412,1549 1456,1549 1501,1549 1546,1546 1591,1546 1636,1546 1680,1546 1725,1546 1770,1549 1797,1546"/>
+                <TextEquiv>
+                    <Unicode>Miquel A. Guerrero R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1385,1570 1785,1573 1785,1623 1385,1620"/>
+                <Baseline points="1385,1615 1430,1618 1474,1618 1519,1618 1564,1618 1609,1618 1653,1618 1698,1618 1743,1618 1785,1618"/>
+                <TextEquiv>
+                    <Unicode>M. A. Patín Maceo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1313,1644 1788,1644 1788,1694 1313,1694"/>
+                <Baseline points="1313,1689 1358,1689 1403,1689 1447,1689 1492,1689 1537,1689 1582,1689 1627,1689 1671,1686 1716,1686 1761,1689 1788,1689"/>
+                <TextEquiv>
+                    <Unicode>El Marqués de Alemtit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="889,1746 1576,1746 1576,1796 889,1796"/>
+                <Baseline points="889,1791 934,1791 979,1791 1024,1791 1068,1791 1113,1791 1158,1791 1203,1788 1247,1788 1292,1788 1337,1788 1382,1788 1427,1788 1471,1788 1516,1788 1561,1788 1576,1791"/>
+                <TextEquiv>
+                    <Unicode>Tariedades. Crónica Social.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1116,1865 1161,1871 1343,1865 1343,1915 1161,1921 1116,1915"/>
+                <Baseline points="1116,1910 1161,1916 1206,1913 1250,1913 1295,1913 1340,1910 1343,1910"/>
+                <TextEquiv>
+                    <Unicode>Grabados:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="773,1976 1674,1961 1674,2011 773,2026"/>
+                <Baseline points="773,2021 779,2018 824,2021 868,2021 913,2021 958,2015 1003,2018 1047,2015 1092,2015 1137,2015 1182,2012 1227,2012 1271,2012 1316,2015 1361,2012 1406,2012 1450,2012 1495,2009 1540,2009 1585,2009 1630,2009 1674,2006"/>
+                <TextEquiv>
+                    <Unicode>M. A. Patin Maceo. Dos Vistas de la Ciudad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653632_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1032,2041 1418,2041 1418,2091 1032,2091"/>
+                <Baseline points="1032,2086 1077,2086 1122,2083 1167,2083 1212,2083 1256,2083 1301,2083 1346,2086 1391,2083 1418,2086"/>
+                <TextEquiv>
+                    <Unicode>de Santo Domingo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761653633" custom="readingOrder {index:4;}">
+            <Coords points="570,2569 1832,2569 1832,2803 570,2803"/>
+            <TextLine id="tr_1761653633_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="889,2630 1570,2630 1558,2683 889,2680"/>
+                <Baseline points="889,2675 931,2683 976,2686 1021,2686 1065,2686 1110,2686 1155,2686 1200,2683 1244,2683 1289,2683 1334,2683 1379,2683 1424,2683 1468,2681 1513,2681 1558,2678 1570,2675"/>
+                <TextEquiv>
+                    <Unicode>pienta Allagtacia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761653633_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1006,2704 1453,2710 1453,2760 1006,2754"/>
+                <Baseline points="1006,2749 1050,2752 1095,2752 1140,2752 1185,2752 1230,2752 1274,2749 1319,2749 1364,2749 1409,2749 1453,2755"/>
+                <TextEquiv>
+                    <Unicode>San Pedro de Macorís.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

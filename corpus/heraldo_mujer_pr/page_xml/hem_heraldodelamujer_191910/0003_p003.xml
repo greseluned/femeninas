@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421621:lm=provided:date=28_10_2025_16:26</Creator>
+        <Created>2025-10-25T14:29:47.819425</Created>
+        <LastChange>2025-10-28T16:26:33.839+01:00</LastChange>
+        <TranskribusMetadata docId="11369101" pageId="104387705" pageNr="3" tsid="259151972" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EAQWSLIKXAMNEEKHDYSDQJJD" xmlUrl="https://files.transkribus.eu/Get?id=ODEFSMLCTQCATBKFFQJHZFJC" imageId="87597276"/>
+    </Metadata>
+    <Page imageFilename="0003_p003.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166850065" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761395413"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761395411"/>
+                <RegionRefIndexed index="2" regionRef="tr_1761395412"/>
+                <RegionRefIndexed index="3" regionRef="tr_1761395414"/>
+                <RegionRefIndexed index="4" regionRef="tr_1761395407"/>
+                <RegionRefIndexed index="5" regionRef="tr_1761395415"/>
+                <RegionRefIndexed index="6" regionRef="tr_1761395409"/>
+                <RegionRefIndexed index="7" regionRef="tr_1761395410"/>
+                <RegionRefIndexed index="8" regionRef="tr_1761395408"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761395413" custom="readingOrder {index:0;}">
+            <Coords points="523,713 1996,713 1996,1004 523,1004"/>
+            <TextLine id="tr_1761395413_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="719,904 1748,921 1748,971 719,954"/>
+                <Baseline points="719,949 764,952 809,952 853,952 898,952 943,955 988,955 1032,958 1077,961 1122,958 1167,961 1212,961 1256,961 1301,961 1346,964 1391,970 1436,967 1480,964 1525,964 1570,967 1615,970 1659,967 1704,967 1748,966"/>
+                <TextEquiv>
+                    <Unicode>ALLINAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395411" custom="readingOrder {index:1;}">
+            <Coords points="612,1032 1973,1032 1973,1271 612,1271"/>
+            <TextLine id="tr_1761395411_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="537,1155 1910,1170 1910,1220 537,1205"/>
+                <Baseline points="537,1200 582,1197 626,1200 671,1200 716,1200 761,1197 806,1200 850,1200 895,1203 940,1203 985,1206 1030,1206 1074,1209 1119,1206 1164,1206 1209,1209 1253,1212 1298,1212 1343,1212 1388,1212 1433,1212 1477,1209 1522,1209 1567,1212 1612,1215 1656,1215 1701,1215 1746,1215 1791,1215 1836,1215 1880,1212 1910,1215"/>
+                <TextEquiv>
+                    <Unicode>De llltcios vala el el SCA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395412" custom="readingOrder {index:2;}">
+            <Coords points="395,2386 2029,2386 2029,2848 395,2848"/>
+            <TextLine id="tr_1761395412_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="898,2364 1525,2376 1525,2426 898,2414"/>
+                <Baseline points="898,2409 943,2409 988,2412 1032,2412 1077,2415 1122,2412 1167,2412 1212,2415 1256,2415 1301,2418 1346,2418 1391,2418 1436,2418 1480,2418 1525,2421"/>
+                <TextEquiv>
+                    <Unicode>Pidala Directamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395412_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="582,2585 1830,2600 1830,2650 582,2635"/>
+                <Baseline points="582,2630 626,2630 671,2627 716,2627 761,2627 806,2627 850,2630 895,2630 940,2630 985,2630 1030,2633 1074,2630 1119,2630 1164,2630 1209,2633 1253,2636 1298,2636 1343,2645 1388,2639 1433,2636 1477,2639 1522,2639 1567,2639 1612,2642 1656,2642 1701,2642 1746,2642 1791,2642 1830,2645"/>
+                <TextEquiv>
+                    <Unicode>Juana Diaz Drus company</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395412_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="447,2698 582,2689 898,2701 898,2751 582,2739 447,2748"/>
+                <Baseline points="447,2743 492,2737 537,2734 582,2734 626,2737 671,2737 716,2737 761,2737 806,2740 850,2740 895,2746 898,2746"/>
+                <TextEquiv>
+                    <Unicode>JUANA DIAZ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395412_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1462,2698 1964,2713 1964,2763 1462,2748"/>
+                <Baseline points="1462,2743 1507,2746 1552,2749 1597,2749 1642,2752 1686,2752 1731,2752 1776,2755 1821,2755 1865,2755 1910,2755 1955,2755 1964,2758"/>
+                <TextEquiv>
+                    <Unicode>PUERTO RICO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395414" custom="readingOrder {index:3;}">
+            <Coords points="1946,1756 1894,1745 1881,1752 1861,1794 1864,1840 1835,1890 1621,1952 1396,1957 1228,1989 1068,1960 953,1967 681,1957 628,1935 509,1930 472,1976 502,2107 497,2155 519,2182 543,2154 540,2109 576,2081 630,2094 684,2065 738,2117 795,2103 848,2140 900,2122 959,2132 1013,2109 1070,2123 1125,2104 1179,2124 1398,2142 1413,2155 1422,2199 1377,2244 1480,2288 1408,2308 1233,2325 902,2322 795,2348 737,2326 684,2348 572,2349 519,2306 462,2377 459,2423 441,2466 485,2512 483,2557 508,2646 495,2712 505,2781 574,2832 958,2856 1012,2886 1507,2892 1722,2860 1780,2879 1946,2879 1965,2846 1971,2735 1955,2693 1970,2557 1970,1925 1962,1797"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395407" custom="readingOrder {index:4;}">
+            <Coords points="444,2011 1972,2011 1972,2341 444,2341"/>
+            <TextLine id="tr_1761395407_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="459,2038 1976,2062 1976,2112 459,2088"/>
+                <Baseline points="459,2083 504,2083 549,2083 594,2080 638,2080 683,2080 728,2083 773,2080 818,2083 862,2083 907,2086 952,2083 997,2086 1041,2083 1086,2083 1131,2083 1176,2086 1221,2086 1265,2089 1310,2089 1355,2092 1400,2092 1444,2095 1489,2095 1534,2095 1579,2098 1624,2098 1668,2101 1713,2098 1758,2101 1803,2101 1848,2101 1892,2104 1937,2104 1976,2107"/>
+                <TextEquiv>
+                    <Unicode>pues de seguro no obtendrán el resultado satisfactorio que obtienen con la nues¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395407_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="453,2083 1976,2110 1976,2160 453,2133"/>
+                <Baseline points="453,2128 498,2131 543,2131 588,2131 632,2128 677,2128 722,2128 767,2128 812,2128 856,2131 901,2131 946,2131 991,2131 1035,2131 1080,2134 1125,2134 1170,2137 1215,2137 1259,2140 1304,2137 1349,2140 1394,2140 1439,2143 1483,2143 1528,2143 1573,2146 1618,2146 1662,2149 1707,2149 1752,2149 1797,2152 1842,2152 1886,2152 1931,2152 1976,2155"/>
+                <TextEquiv>
+                    <Unicode>tra. Muchas CREMAS CITANEAS debido á los ingredientes que entran en su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395407_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="453,2131 1964,2155 1931,2208 453,2181"/>
+                <Baseline points="453,2176 498,2182 543,2179 588,2179 632,2179 677,2179 722,2179 767,2179 812,2179 856,2179 901,2179 946,2179 991,2179 1035,2179 1080,2182 1125,2182 1170,2182 1215,2185 1259,2188 1304,2188 1349,2191 1394,2194 1439,2194 1483,2194 1528,2194 1573,2197 1618,2197 1662,2197 1707,2197 1752,2200 1797,2200 1842,2200 1886,2203 1931,2203 1964,2200"/>
+                <TextEquiv>
+                    <Unicode>laboración HACEN SAL. VELLOS en el cutis, los cuales como es muy sabi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395407_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="456,2182 1247,2194 1247,2244 456,2232"/>
+                <Baseline points="456,2227 501,2230 546,2233 591,2230 635,2230 680,2230 725,2230 770,2230 815,2230 859,2230 904,2230 949,2233 994,2233 1038,2233 1083,2233 1128,2236 1173,2236 1218,2239 1247,2239"/>
+                <TextEquiv>
+                    <Unicode>do afean potablemente el rostro femenino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395415" custom="readingOrder {index:5;}">
+            <Coords points="1985,1351 1924,1303 1878,1397 1821,1423 1704,1417 1650,1448 1372,1441 1320,1459 1212,1431 825,1421 771,1397 715,1404 661,1376 605,1388 551,1344 499,1412 474,1541 478,1777 549,1877 605,1803 661,1809 716,1780 1322,1779 1431,1804 1485,1849 1540,1827 1586,1870 1667,1892 1677,1937 1651,1956 1488,1966 1306,2001 1043,2002 992,1980 933,1998 882,1967 827,1992 767,1981 715,1999 668,1963 581,1950 551,1920 482,1980 492,2069 542,2156 529,2215 551,2241 563,2224 556,2156 573,2068 604,2045 716,2046 770,2069 826,2061 878,2082 991,2082 1048,2056 1099,2078 1211,2090 1265,2126 1320,2107 1450,2200 1430,2235 1373,2231 1352,2288 1319,2307 880,2309 827,2331 770,2318 753,2336 826,2333 934,2387 1082,2426 1336,2443 1626,2438 1758,2409 1926,2403 1975,2379 1999,2334 2006,1554 2002,1406"/>
+            <TextLine id="tr_1761395415_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="632,1489 1982,1507 1982,1557 632,1539"/>
+                <Baseline points="632,1534 677,1531 722,1534 767,1534 812,1534 856,1537 901,1537 946,1537 991,1537 1035,1540 1080,1540 1125,1537 1170,1540 1215,1540 1259,1540 1304,1543 1349,1543 1394,1543 1439,1543 1483,1546 1528,1546 1573,1546 1618,1549 1662,1546 1707,1549 1752,1549 1797,1549 1842,1549 1886,1552 1931,1552 1976,1552 1982,1552"/>
+                <TextEquiv>
+                    <Unicode>Debido al gran exito que hemos alcanzado con nuestra Pamada Cutánea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395415_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="510,2283 1904,2307 1904,2357 510,2333"/>
+                <Baseline points="510,2328 555,2328 600,2328 644,2331 689,2331 734,2331 779,2331 824,2331 868,2331 913,2331 958,2331 1003,2334 1047,2334 1092,2334 1137,2334 1182,2337 1227,2340 1271,2340 1316,2340 1361,2343 1406,2340 1450,2343 1495,2343 1540,2346 1585,2346 1630,2346 1674,2346 1719,2346 1764,2349 1809,2349 1854,2349 1898,2349 1904,2352"/>
+                <TextEquiv>
+                    <Unicode>Si su farmacéntico no tiene la Pomada 2ELITA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395409" custom="readingOrder {index:6;}">
+            <Coords points="489,1784 1960,1784 1960,2009 489,2009"/>
+            <TextLine id="tr_1761395409_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="722,1907 1650,1919 1650,1969 1612,1972 722,1957"/>
+                <Baseline points="722,1952 767,1952 812,1952 856,1952 901,1955 946,1955 991,1952 1035,1955 1080,1952 1125,1955 1143,1955 1164,1958 1209,1961 1253,1961 1298,1961 1343,1961 1388,1961 1433,1964 1477,1961 1522,1961 1567,1964 1612,1967 1650,1964"/>
+                <TextEquiv>
+                    <Unicode>Y Una LLLA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395410" custom="readingOrder {index:7;}">
+            <Coords points="422,1454 2017,1454 2017,1794 422,1794"/>
+            <TextLine id="tr_1761395410_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="462,1531 1967,1552 1940,1605 462,1581"/>
+                <Baseline points="462,1576 507,1579 552,1579 597,1582 641,1582 686,1582 731,1582 776,1582 821,1582 865,1582 910,1582 955,1582 1000,1582 1044,1585 1089,1585 1134,1585 1179,1585 1224,1585 1268,1588 1313,1591 1358,1591 1403,1591 1447,1594 1492,1594 1537,1594 1582,1594 1627,1594 1671,1594 1716,1594 1761,1597 1806,1597 1851,1597 1895,1600 1940,1600 1967,1597"/>
+                <TextEquiv>
+                    <Unicode>ELITA en la curación de las pecas y manchas del cuis han emperado va a lan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395410_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="456,1582 1967,1605 1967,1655 456,1632"/>
+                <Baseline points="456,1627 501,1630 546,1630 591,1627 635,1630 680,1627 725,1627 770,1627 815,1630 859,1630 904,1627 949,1630 994,1630 1038,1633 1083,1630 1128,1633 1173,1633 1218,1636 1262,1636 1307,1636 1352,1639 1397,1639 1442,1639 1486,1642 1531,1642 1576,1642 1621,1642 1665,1642 1710,1645 1755,1645 1800,1648 1845,1648 1889,1648 1934,1650 1967,1650"/>
+                <TextEquiv>
+                    <Unicode>zarse al mercado mucha IACIONES de muesto producto con nombres más</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395410_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="465,1629 1973,1650 1943,1703 465,1679"/>
+                <Baseline points="465,1674 510,1677 555,1674 600,1674 644,1674 689,1674 734,1674 779,1677 824,1680 868,1677 913,1677 958,1680 1003,1680 1047,1680 1092,1680 1137,1680 1182,1683 1227,1683 1271,1683 1316,1683 1361,1686 1406,1686 1450,1686 1495,1686 1540,1689 1585,1689 1630,1692 1674,1692 1719,1695 1764,1695 1809,1695 1854,1695 1898,1695 1943,1698 1973,1695"/>
+                <TextEquiv>
+                    <Unicode>menos supesivos, pero en beneficio de nuestra numeroso cientela nos apresura¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395410_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="459,1680 1973,1704 1973,1754 459,1730"/>
+                <Baseline points="459,1725 504,1725 549,1725 594,1728 638,1725 683,1722 728,1725 773,1725 818,1728 862,1728 907,1728 952,1728 997,1731 1041,1728 1086,1734 1131,1731 1176,1734 1221,1734 1265,1734 1310,1734 1355,1734 1400,1734 1444,1734 1489,1734 1534,1734 1579,1740 1624,1737 1668,1740 1713,1740 1758,1743 1803,1746 1848,1746 1892,1746 1937,1746 1973,1749"/>
+                <TextEquiv>
+                    <Unicode>mos a advertirle que no acepta bajo ningún concento suros de nuestra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395408" custom="readingOrder {index:8;}">
+            <Coords points="990,3019 1491,3019 1491,3102 990,3102"/>
+            <TextLine id="tr_1761395408_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1044,3030 1447,3036 1447,3086 1044,3080"/>
+                <Baseline points="1044,3075 1089,3078 1134,3078 1179,3078 1224,3078 1268,3078 1313,3078 1358,3078 1403,3081 1447,3081"/>
+                <TextEquiv>
+                    <Unicode>Ayuntamiento de Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421621:lm=provided:date=25_10_2025_18:12</Creator>
+        <Created>2025-10-15T18:39:23.038+02:00</Created>
+        <LastChange>2025-10-25T18:12:54.614+02:00</LastChange>
+        <TranskribusMetadata docId="11368984" pageId="104387806" pageNr="4" tsid="258855387" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=POTFNNZUAFHFDNIMLZHWMBQN" xmlUrl="https://files.transkribus.eu/Get?id=LTOLTBZFTKKBMGNCNWKDSIUE" imageId="87597542"/>
+    </Metadata>
+    <Page imageFilename="0004_p004.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166792054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="552,2003 552,2282 2825,2282 2825,2003"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="552,2036 2825,2047 2825,2014 2711,2011 552,2003"/>
+                <Baseline points="552,2025 665,2028 779,2028 892,2028 1006,2028 1120,2030 1233,2030 1347,2030 1461,2030 1574,2030 1688,2029 1802,2030 1915,2030 2029,2030 2143,2030 2256,2030 2370,2030 2484,2033 2597,2033 2711,2033 2825,2036"/>
+                <TextEquiv>
+                    <Unicode>Alumnas de aquigrafía que se graduaron en Ponce, en el acreditado establecimiento de la Sra. María leresa Camacho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="803,2089 2577,2092 2577,2059 2488,2056 803,2056"/>
+                <Baseline points="803,2078 891,2081 980,2078 1069,2081 1157,2081 1246,2081 1335,2081 1423,2081 1512,2081 1601,2081 1690,2078 1778,2075 1867,2075 1956,2075 2044,2075 2133,2076 2222,2075 2310,2075 2399,2078 2488,2078 2577,2081"/>
+                <TextEquiv>
+                    <Unicode>de Robles. Competente profesora que ahora ha trasladado su residencia a San Juan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1935,2214 2177,2211 2177,2171 1935,2174"/>
+                <Baseline points="1935,2201 1961,2202 1988,2203 2015,2204 2042,2204 2069,2202 2096,2201 2123,2201 2150,2200 2177,2198"/>
+                <TextEquiv>
+                    <Unicode>FERIRIRIRIRIRIRIRIRIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1102,2214 1633,2217 1633,2177 1102,2174"/>
+                <Baseline points="1102,2201 1128,2201 1155,2201 1181,2201 1208,2201 1234,2201 1261,2201 1287,2201 1314,2201 1340,2201 1367,2201 1394,2201 1420,2201 1447,2203 1473,2204 1500,2204 1526,2204 1553,2204 1579,2204 1606,2204 1633,2204"/>
+                <TextEquiv>
+                    <Unicode>FRIRIRIRIRIRETRIRIRIRIRIIIIIIIIIIIII.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1556,2279 1968,2279 1968,2239 1556,2239"/>
+                <Baseline points="1556,2266 1581,2266 1607,2266 1633,2266 1659,2267 1684,2269 1710,2269 1736,2269 1762,2269 1787,2269 1813,2269 1839,2268 1865,2266 1890,2266 1916,2266 1942,2268 1968,2266"/>
+                <TextEquiv>
+                    <Unicode>Ayuntamiento de Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421621:lm=provided:date=28_10_2025_17:38</Creator>
+        <Created>2025-10-25T14:29:49.768614</Created>
+        <LastChange>2025-10-28T17:38:58.477+01:00</LastChange>
+        <TranskribusMetadata docId="11368983" pageId="104387510" pageNr="14" tsid="259173805" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CDLXNVMTSOUEHWLUDZVTXBTC" xmlUrl="https://files.transkribus.eu/Get?id=CLHBNBJCENWCUUNDLPIDHEWI" imageId="87597555"/>
+    </Metadata>
+    <Page imageFilename="0014_p014.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166838247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761395421"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761395423"/>
+                <RegionRefIndexed index="2" regionRef="tr_1761395424"/>
+                <RegionRefIndexed index="3" regionRef="tr_1761395420"/>
+                <RegionRefIndexed index="4" regionRef="tr_1761395419"/>
+                <RegionRefIndexed index="5" regionRef="tr_1761395422"/>
+                <RegionRefIndexed index="6" regionRef="tr_1761395427"/>
+                <RegionRefIndexed index="7" regionRef="tr_1761395425"/>
+                <RegionRefIndexed index="8" regionRef="tr_1761395426"/>
+                <RegionRefIndexed index="9" regionRef="tr_1761395418"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761395421" custom="readingOrder {index:0;}">
+            <Coords points="330,422 587,422 587,492 330,492"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395423" custom="readingOrder {index:1;}">
+            <Coords points="601,418 1888,418 1888,496 601,496"/>
+            <TextLine id="tr_1761395423_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="961,429 1489,426 1489,476 961,479"/>
+                <Baseline points="961,474 997,474 1041,474 1086,474 1131,471 1176,471 1221,471 1265,471 1310,471 1355,468 1400,468 1444,468 1489,471"/>
+                <TextEquiv>
+                    <Unicode>HERALDO DE LA MUJER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395424" custom="readingOrder {index:2;}">
+            <Coords points="357,501 2194,501 2194,646 357,646"/>
+            <TextLine id="tr_1761395424_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="806,537 1686,534 1686,584 1642,587 806,587"/>
+                <Baseline points="806,582 835,585 880,585 925,585 970,585 1015,585 1059,585 1104,585 1149,582 1194,582 1238,582 1283,582 1328,582 1373,579 1418,579 1462,579 1507,576 1552,579 1597,579 1642,582 1686,579"/>
+                <TextEquiv>
+                    <Unicode>SECCION CIENTIFICA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395420" custom="readingOrder {index:3;}">
+            <Coords points="301,802 1284,802 1284,2842 301,2842"/>
+            <TextLine id="tr_1761395420_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="409,841 1230,841 1230,891 409,891"/>
+                <Baseline points="409,886 453,886 498,883 543,886 588,886 632,886 677,886 722,886 767,886 812,886 856,886 901,886 946,886 991,886 1035,883 1080,883 1125,883 1170,883 1215,886 1230,886"/>
+                <TextEquiv>
+                    <Unicode>Sobre este tema tan admirable se ha escrito mucho,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="340,892 934,886 934,936 340,942"/>
+                <Baseline points="340,937 352,934 397,931 441,931 486,934 531,931 576,931 620,931 665,934 710,931 755,931 800,931 844,931 889,931 934,931"/>
+                <TextEquiv>
+                    <Unicode>y todo maravillosamente interesante.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="409,931 1230,928 1230,978 409,981"/>
+                <Baseline points="409,976 423,976 468,979 513,979 558,979 603,979 647,976 692,979 737,979 782,979 826,979 871,979 916,979 961,979 1006,976 1050,976 1095,976 1140,976 1185,973 1230,973"/>
+                <TextEquiv>
+                    <Unicode>Recientemente la magnifica revista inglesa Scientia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="334,979 1233,973 1233,1023 1188,1026 334,1029"/>
+                <Baseline points="334,1024 337,1024 382,1024 426,1024 471,1024 516,1024 561,1024 606,1024 650,1024 695,1024 740,1024 785,1024 829,1024 874,1024 919,1024 964,1024 1009,1021 1053,1021 1098,1021 1143,1021 1188,1021 1233,1018"/>
+                <TextEquiv>
+                    <Unicode>ha publicado sobre la engrato momen un admirable es¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="334,1020 1200,1023 1200,1073 334,1070"/>
+                <Baseline points="334,1065 379,1068 423,1065 468,1068 513,1068 558,1068 603,1068 647,1068 692,1071 737,1068 782,1068 826,1068 871,1068 916,1068 961,1068 1006,1068 1050,1068 1095,1068 1140,1068 1185,1068 1200,1068"/>
+                <TextEquiv>
+                    <Unicode>tudio de ser quer Losos que publica LAstronomi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="420,1065 1233,1065 1227,1118 420,1115"/>
+                <Baseline points="420,1110 465,1113 510,1113 555,1110 600,1113 644,1113 689,1116 734,1116 779,1116 824,1116 868,1116 913,1116 958,1113 1003,1116 1047,1116 1092,1113 1137,1113 1182,1113 1227,1113 1233,1110"/>
+                <TextEquiv>
+                    <Unicode>Al oncerar un pedro de metal o algunos gramos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="337,1113 1053,1116 1053,1166 337,1163"/>
+                <Baseline points="337,1158 382,1161 426,1161 471,1161 516,1161 561,1161 606,1161 650,1161 695,1161 740,1161 785,1161 829,1161 874,1161 919,1161 964,1161 1009,1161 1053,1161"/>
+                <TextEquiv>
+                    <Unicode>de sal, se crería, ver la imagen de la calma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="412,1161 1236,1158 1236,1208 1191,1211 412,1211"/>
+                <Baseline points="412,1206 429,1206 474,1206 519,1206 564,1206 609,1206 653,1209 698,1206 743,1209 788,1206 832,1206 877,1206 922,1206 967,1206 1012,1206 1056,1206 1101,1206 1146,1206 1191,1206 1236,1203"/>
+                <TextEquiv>
+                    <Unicode>sin embargo, la época presente ha revelado el se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="331,1205 1241,1205 1241,1255 331,1255"/>
+                <Baseline points="331,1250 376,1253 420,1253 465,1253 510,1253 555,1253 600,1253 644,1253 689,1253 734,1253 779,1253 824,1253 868,1250 913,1250 958,1250 1003,1250 1047,1247 1092,1247 1137,1247 1182,1250 1227,1250 1241,1250"/>
+                <TextEquiv>
+                    <Unicode>geto inspechalo por la humanidad, durante todos los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="340,1256 1236,1247 1236,1297 1191,1300 340,1306"/>
+                <Baseline points="340,1301 385,1298 429,1298 474,1298 519,1295 564,1295 609,1298 653,1295 698,1298 743,1298 788,1295 832,1295 877,1295 922,1295 967,1298 1012,1292 1056,1295 1101,1292 1146,1295 1191,1295 1236,1292"/>
+                <TextEquiv>
+                    <Unicode>selos de so sustencia, de que los alomos mas orama¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="340,1298 1236,1298 1236,1348 340,1348"/>
+                <Baseline points="340,1343 385,1343 429,1343 474,1343 519,1343 564,1340 609,1343 653,1340 698,1340 743,1343 788,1343 832,1343 877,1343 922,1343 967,1343 1012,1343 1056,1343 1101,1340 1146,1343 1191,1343 1236,1343"/>
+                <TextEquiv>
+                    <Unicode>rios de materia, encieran una prisios energía, me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="346,1349 1009,1346 1009,1396 346,1399"/>
+                <Baseline points="346,1394 382,1391 426,1388 471,1391 516,1391 561,1391 606,1388 650,1388 695,1388 740,1388 785,1388 829,1388 874,1388 919,1388 964,1388 1009,1391"/>
+                <TextEquiv>
+                    <Unicode>poderosa que la que posee los esposos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="417,1391 1236,1388 1236,1438 417,1441"/>
+                <Baseline points="417,1436 429,1436 474,1436 519,1436 564,1436 609,1436 653,1436 698,1436 743,1436 788,1436 832,1436 877,1436 922,1436 967,1436 1012,1436 1056,1436 1101,1436 1146,1436 1191,1433 1236,1433"/>
+                <TextEquiv>
+                    <Unicode>Es la radio actividad la que la puesto de manifesto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="343,1438 1173,1435 1173,1485 343,1488"/>
+                <Baseline points="343,1483 367,1483 412,1480 456,1480 501,1480 546,1480 591,1480 635,1480 680,1480 725,1483 770,1480 815,1480 859,1480 904,1477 949,1480 994,1480 1038,1480 1083,1480 1128,1480 1173,1480"/>
+                <TextEquiv>
+                    <Unicode>este admirable secreto, la racionetividad espontánes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="376,1483 1238,1480 1238,1530 376,1533"/>
+                <Baseline points="376,1528 388,1528 432,1528 477,1528 522,1528 567,1528 612,1528 656,1528 701,1528 746,1528 791,1528 835,1525 880,1528 925,1525 970,1525 1015,1525 1059,1525 1104,1525 1149,1522 1194,1525 1238,1525"/>
+                <TextEquiv>
+                    <Unicode>jamás habíamos podido soñar que el atomo que reta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="340,1528 1238,1525 1238,1575 340,1578"/>
+                <Baseline points="340,1573 343,1576 388,1576 432,1576 477,1576 522,1573 567,1573 612,1576 656,1576 701,1573 746,1573 791,1573 835,1573 880,1570 925,1573 970,1570 1015,1570 1059,1570 1104,1570 1149,1570 1194,1570 1238,1570"/>
+                <TextEquiv>
+                    <Unicode>mos inerte retuviera en el fuerzas latentes suscentiles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="340,1576 1236,1573 1236,1623 340,1626"/>
+                <Baseline points="340,1621 385,1621 429,1618 474,1618 519,1618 564,1618 609,1618 653,1618 698,1621 743,1618 788,1618 832,1618 877,1618 922,1618 967,1618 1012,1618 1056,1618 1101,1618 1146,1618 1191,1618 1236,1618"/>
+                <TextEquiv>
+                    <Unicode>de desarrollare con la más entrema violencia y de engen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="343,1620 1238,1617 1238,1667 343,1670"/>
+                <Baseline points="343,1665 388,1665 432,1662 477,1662 522,1662 567,1665 612,1662 656,1665 701,1662 746,1662 791,1665 835,1662 880,1662 925,1662 970,1662 1015,1662 1059,1662 1104,1662 1149,1662 1194,1662 1238,1662"/>
+                <TextEquiv>
+                    <Unicode>tar velosidades provisiones comparables tan sio á</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="343,1668 1247,1662 1247,1712 343,1718"/>
+                <Baseline points="343,1713 352,1710 397,1710 441,1710 486,1710 531,1710 576,1710 620,1710 665,1707 710,1710 755,1710 800,1710 844,1710 889,1707 934,1707 979,1707 1024,1707 1068,1707 1113,1707 1158,1707 1203,1707 1247,1707"/>
+                <TextEquiv>
+                    <Unicode>las que nos dan los volcanes los fuentes calma y los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="337,1710 821,1713 821,1763 337,1760"/>
+                <Baseline points="337,1755 382,1755 426,1755 471,1758 516,1755 561,1752 606,1755 650,1752 695,1755 740,1755 785,1755 821,1758"/>
+                <TextEquiv>
+                    <Unicode>fuertes movimientos siemicos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="420,1758 1238,1752 1238,1802 420,1808"/>
+                <Baseline points="420,1803 432,1800 477,1803 522,1800 567,1800 612,1800 656,1800 701,1803 746,1803 791,1803 835,1803 880,1803 925,1800 970,1800 1015,1797 1059,1797 1104,1800 1149,1797 1194,1800 1238,1797"/>
+                <TextEquiv>
+                    <Unicode>Casi todos los átomos de materia pueden emitir par¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="340,1803 1241,1800 1241,1850 340,1853"/>
+                <Baseline points="340,1848 346,1848 391,1851 435,1851 480,1851 525,1848 570,1848 615,1845 659,1845 704,1845 749,1845 794,1845 838,1845 883,1845 928,1845 973,1845 1018,1842 1062,1842 1107,1845 1152,1842 1197,1842 1241,1845"/>
+                <TextEquiv>
+                    <Unicode>tenlos animadas de esa realidad orprendente. Pero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="340,1847 1241,1844 1241,1894 1197,1897 340,1897"/>
+                <Baseline points="340,1892 346,1892 391,1892 435,1892 480,1895 525,1892 570,1892 615,1892 659,1892 704,1892 749,1892 794,1892 838,1892 883,1892 928,1892 973,1892 1018,1889 1062,1892 1107,1892 1152,1892 1197,1892 1241,1889"/>
+                <TextEquiv>
+                    <Unicode>en la mayor parte de las substancias esta emisión solo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="346,1892 1238,1886 1238,1936 1194,1942 346,1942"/>
+                <Baseline points="346,1937 388,1940 432,1940 477,1940 522,1937 567,1940 612,1937 656,1937 701,1937 746,1940 791,1940 835,1940 880,1937 925,1937 970,1937 1015,1937 1059,1937 1104,1937 1149,1937 1194,1937 1238,1931"/>
+                <TextEquiv>
+                    <Unicode>tiene lugar cuando se le aplican ciertos estimilantes, co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="340,1940 922,1943 922,1993 340,1990"/>
+                <Baseline points="340,1985 385,1985 429,1985 474,1985 519,1985 564,1985 609,1985 653,1985 698,1985 743,1985 788,1982 832,1982 877,1982 922,1988"/>
+                <TextEquiv>
+                    <Unicode>mo el entor la luz, o la electiciana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="414,1985 1247,1982 1247,2032 1203,2035 414,2035"/>
+                <Baseline points="414,2030 441,2030 486,2030 531,2030 576,2030 620,2030 665,2030 710,2030 755,2030 800,2030 844,2030 889,2030 934,2030 979,2030 1024,2030 1068,2030 1113,2030 1158,2030 1203,2030 1247,2027"/>
+                <TextEquiv>
+                    <Unicode>Pero existen otras substancias que contienen tomos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="340,2029 1238,2026 1238,2076 1194,2079 340,2079"/>
+                <Baseline points="340,2074 343,2074 388,2077 432,2077 477,2074 522,2077 567,2077 612,2077 656,2077 701,2074 746,2077 791,2077 835,2077 880,2074 925,2074 970,2071 1015,2074 1059,2074 1104,2074 1149,2074 1194,2074 1238,2071"/>
+                <TextEquiv>
+                    <Unicode>de más complia naturaleza, que reccionan espontánea¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="340,2080 1238,2074 1238,2124 1194,2127 340,2130"/>
+                <Baseline points="340,2125 343,2125 388,2125 432,2122 477,2122 522,2122 567,2125 612,2122 656,2122 701,2122 746,2122 791,2122 835,2122 880,2122 925,2119 970,2119 1015,2119 1059,2119 1104,2119 1149,2119 1194,2122 1238,2119"/>
+                <TextEquiv>
+                    <Unicode>mente lamano no solamente partículos elestricas, sino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="349,2128 1241,2119 1241,2169 1197,2172 349,2178"/>
+                <Baseline points="349,2173 391,2167 435,2167 480,2170 525,2167 570,2167 615,2167 659,2167 704,2167 749,2167 794,2167 838,2167 883,2167 928,2167 973,2167 1018,2167 1062,2167 1107,2167 1152,2167 1197,2167 1241,2164"/>
+                <TextEquiv>
+                    <Unicode>prciones de ellos mismos conteniendo otros domos de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="343,2167 483,2173 483,2223 343,2217"/>
+                <Baseline points="343,2212 388,2215 432,2215 477,2218 483,2218"/>
+                <TextEquiv>
+                    <Unicode>materia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="417,2215 1241,2209 1241,2259 1197,2262 417,2265"/>
+                <Baseline points="417,2260 435,2260 480,2263 525,2263 570,2260 615,2260 659,2260 704,2260 749,2260 794,2260 838,2260 883,2260 928,2260 973,2260 1018,2260 1062,2260 1107,2260 1152,2257 1197,2257 1241,2254"/>
+                <TextEquiv>
+                    <Unicode>Estos provectiles atómicos son formados casi siem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="349,2271 1247,2259 1247,2309 349,2321"/>
+                <Baseline points="349,2316 352,2310 397,2310 441,2307 486,2307 531,2307 576,2307 620,2307 665,2307 710,2307 755,2307 800,2307 844,2307 889,2304 934,2304 979,2304 1024,2304 1068,2304 1113,2304 1158,2304 1203,2304 1247,2304"/>
+                <TextEquiv>
+                    <Unicode>pre de henun substancia totamente deconocida hasta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="340,2310 1241,2304 1241,2354 340,2360"/>
+                <Baseline points="340,2355 346,2355 391,2355 435,2352 480,2352 525,2355 570,2352 615,2352 659,2352 704,2352 749,2352 794,2352 838,2352 883,2352 928,2352 973,2352 1018,2352 1062,2349 1107,2349 1152,2349 1197,2349 1241,2349"/>
+                <TextEquiv>
+                    <Unicode>muestros dos: la cual la sido desabierta en el sol por¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="346,2355 1209,2349 1209,2399 346,2405"/>
+                <Baseline points="346,2400 358,2400 403,2400 447,2400 492,2397 537,2400 582,2400 626,2400 671,2397 716,2397 761,2397 806,2397 850,2397 895,2397 940,2394 985,2397 1030,2397 1074,2394 1119,2394 1164,2394 1209,2394"/>
+                <TextEquiv>
+                    <Unicode>Lolver y en las fuentes calicas de pata, por mangar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="429,2400 1247,2397 1247,2447 429,2450"/>
+                <Baseline points="429,2445 441,2445 486,2448 531,2448 576,2445 620,2445 665,2442 710,2442 755,2442 800,2442 844,2445 889,2445 934,2442 979,2442 1024,2442 1068,2442 1113,2442 1158,2442 1203,2442 1247,2442"/>
+                <TextEquiv>
+                    <Unicode>ambien el espectroscono ha probado que el helu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="343,2444 1244,2438 1244,2488 1155,2494 343,2494"/>
+                <Baseline points="343,2489 349,2492 394,2495 438,2492 483,2492 528,2492 573,2489 618,2489 662,2489 707,2489 752,2489 797,2489 841,2489 886,2489 931,2489 976,2489 1021,2489 1065,2489 1110,2489 1155,2489 1200,2486 1244,2483"/>
+                <TextEquiv>
+                    <Unicode>esta en el arre que regramos y algunos creen que pron¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="349,2495 1021,2489 1021,2539 349,2545"/>
+                <Baseline points="349,2540 394,2537 438,2537 483,2537 528,2537 573,2537 618,2534 662,2534 707,2537 752,2534 797,2534 841,2534 886,2531 931,2534 976,2531 1021,2534"/>
+                <TextEquiv>
+                    <Unicode>to para aplicarse a la naveración arre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="417,2537 1247,2531 1247,2581 1203,2584 417,2587"/>
+                <Baseline points="417,2582 441,2582 486,2585 531,2585 576,2582 620,2582 665,2582 710,2582 755,2582 800,2579 844,2579 889,2579 934,2579 979,2579 1024,2579 1068,2579 1113,2579 1158,2579 1203,2579 1247,2576"/>
+                <TextEquiv>
+                    <Unicode>El tono de radiun suele emitir de tiempo en tiem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="352,2591 1241,2576 1241,2626 352,2641"/>
+                <Baseline points="352,2636 391,2633 435,2633 480,2633 525,2630 570,2630 615,2630 659,2627 704,2630 749,2627 794,2627 838,2627 883,2627 928,2627 973,2627 1018,2624 1062,2624 1107,2624 1152,2624 1197,2624 1241,2621"/>
+                <TextEquiv>
+                    <Unicode>po espontáneamente atomos de heluma y esta substan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="349,2633 1244,2621 1244,2671 349,2683"/>
+                <Baseline points="349,2678 394,2678 438,2675 483,2675 528,2675 573,2675 618,2675 662,2675 707,2675 752,2675 797,2672 841,2669 886,2672 931,2672 976,2672 1021,2669 1065,2669 1110,2672 1155,2672 1200,2669 1244,2666"/>
+                <TextEquiv>
+                    <Unicode>ina poderosa sería capaz de trasportar un motor de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="346,2677 1098,2674 1098,2724 346,2727"/>
+                <Baseline points="346,2722 382,2722 426,2722 471,2719 516,2719 561,2719 606,2716 650,2719 695,2719 740,2719 785,2716 829,2716 874,2716 919,2716 964,2716 1009,2716 1053,2716 1098,2719"/>
+                <TextEquiv>
+                    <Unicode>Lones Ner en en un cuarto de segundo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="420,2722 1250,2716 1250,2766 420,2772"/>
+                <Baseline points="420,2767 444,2770 489,2767 534,2767 579,2764 623,2764 668,2764 713,2764 758,2764 803,2764 847,2764 892,2764 937,2764 982,2764 1027,2761 1071,2764 1116,2764 1161,2761 1206,2761 1250,2761"/>
+                <TextEquiv>
+                    <Unicode>Las emplosiones del radiun son muy raras, a veces,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395420_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="352,2767 1247,2758 1247,2808 1158,2814 352,2817"/>
+                <Baseline points="352,2812 397,2815 441,2815 486,2812 531,2812 576,2812 620,2812 665,2812 710,2812 755,2812 800,2812 844,2809 889,2809 934,2809 979,2809 1024,2809 1068,2809 1113,2806 1158,2809 1203,2806 1247,2803"/>
+                <TextEquiv>
+                    <Unicode>se producen con el intervalo de un siglo pero cuando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395419" custom="readingOrder {index:4;}">
+            <Coords points="1258,663 2211,663 2211,2524 1258,2524"/>
+            <TextLine id="tr_1761395419_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="985,623 1522,623 1522,673 985,673"/>
+                <Baseline points="985,668 1030,668 1074,668 1119,668 1164,668 1209,668 1253,665 1298,665 1343,662 1388,662 1433,662 1477,665 1522,668"/>
+                <TextEquiv>
+                    <Unicode>LA MATERIA VIBRA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1277,683 2179,671 2179,721 1277,733"/>
+                <Baseline points="1277,728 1283,728 1328,731 1373,728 1418,728 1462,728 1507,728 1552,728 1597,728 1642,725 1686,725 1731,725 1776,722 1821,722 1865,722 1910,722 1955,719 2000,719 2045,719 2089,719 2134,719 2179,716"/>
+                <TextEquiv>
+                    <Unicode>comparada con la de una bala de fusil, aumentada un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1274,731 1537,728 1537,778 1274,781"/>
+                <Baseline points="1274,776 1313,776 1358,773 1403,770 1447,770 1492,770 1537,773"/>
+                <TextEquiv>
+                    <Unicode>millon de ves.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1349,779 2179,758 2179,808 1349,829"/>
+                <Baseline points="1349,824 1373,821 1418,821 1462,818 1507,818 1552,818 1597,815 1642,815 1686,815 1731,812 1776,812 1821,812 1865,812 1910,812 1955,809 2000,809 2045,806 2089,806 2134,806 2179,803"/>
+                <TextEquiv>
+                    <Unicode>¡Qué poderosos medios de trasporte y de experi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1271,820 2179,808 2179,858 1271,870"/>
+                <Baseline points="1271,865 1283,865 1328,868 1373,865 1418,865 1462,865 1507,865 1552,862 1597,862 1642,862 1686,862 1731,859 1776,859 1821,856 1865,856 1910,856 1955,856 2000,856 2045,853 2089,853 2134,853 2179,853"/>
+                <TextEquiv>
+                    <Unicode>mentación poseerá el hombre cuando pueda disponer de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1271,868 2170,847 2170,897 2125,903 1271,918"/>
+                <Baseline points="1271,913 1274,913 1319,913 1364,913 1409,913 1453,913 1498,913 1543,910 1588,910 1633,910 1677,907 1722,907 1767,907 1812,904 1857,904 1901,904 1946,904 1991,901 2036,901 2080,901 2125,898 2170,892"/>
+                <TextEquiv>
+                    <Unicode>esas substancias tan energicas en cantidad eficiente pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1277,916 1552,910 1552,960 1277,966"/>
+                <Baseline points="1277,961 1283,961 1328,961 1373,961 1418,958 1462,958 1507,958 1552,955"/>
+                <TextEquiv>
+                    <Unicode>ra su aplicción</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1358,973 2173,952 2173,1002 2128,1008 1358,1023"/>
+                <Baseline points="1358,1018 1367,1015 1412,1018 1456,1015 1501,1015 1546,1015 1591,1015 1636,1015 1680,1012 1725,1009 1770,1009 1815,1009 1859,1009 1904,1006 1949,1006 1994,1003 2039,1003 2083,1003 2128,1003 2173,997"/>
+                <TextEquiv>
+                    <Unicode>Y no es el radium el único que posee estas pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1280,1026 2179,999 2179,1049 1280,1076"/>
+                <Baseline points="1280,1071 1283,1068 1328,1065 1373,1062 1418,1062 1462,1062 1507,1059 1552,1062 1597,1059 1642,1056 1686,1056 1731,1056 1776,1056 1821,1053 1865,1053 1910,1053 1955,1050 2000,1050 2045,1047 2089,1047 2134,1047 2179,1044"/>
+                <TextEquiv>
+                    <Unicode>piedades. Se vienen descubriendo otras substancias ani¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1283,1068 2176,1047 2176,1097 1283,1118"/>
+                <Baseline points="1283,1113 1325,1113 1370,1110 1415,1110 1459,1107 1504,1107 1549,1107 1594,1104 1639,1107 1683,1104 1728,1101 1773,1101 1818,1101 1862,1101 1907,1098 1952,1098 1997,1095 2042,1095 2086,1095 2131,1092 2176,1092"/>
+                <TextEquiv>
+                    <Unicode>losas, que estan en estudio. No hay energía compa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1277,1113 2140,1095 2140,1145 1277,1163"/>
+                <Baseline points="1277,1158 1289,1158 1334,1158 1379,1158 1424,1155 1468,1155 1513,1152 1558,1152 1603,1152 1648,1152 1692,1152 1737,1149 1782,1149 1827,1149 1871,1149 1916,1146 1961,1143 2006,1140 2051,1143 2095,1143 2140,1140"/>
+                <TextEquiv>
+                    <Unicode>ble con la que desarrolla la materia al parecer inerte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1352,1158 1725,1155 1725,1205 1352,1208"/>
+                <Baseline points="1352,1203 1367,1203 1412,1203 1456,1200 1501,1200 1546,1200 1591,1197 1636,1197 1680,1197 1725,1200"/>
+                <TextEquiv>
+                    <Unicode>Los abios presentan:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1358,1208 2182,1185 2182,1235 1358,1258"/>
+                <Baseline points="1358,1253 1376,1250 1421,1247 1465,1247 1510,1247 1555,1244 1600,1244 1645,1244 1689,1244 1734,1244 1779,1241 1824,1241 1868,1238 1913,1238 1958,1238 2003,1236 2048,1236 2092,1233 2137,1230 2182,1230"/>
+                <TextEquiv>
+                    <Unicode>Cual debe ser la causa de esta maravillosa provi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1277,1253 1540,1247 1540,1297 1277,1303"/>
+                <Baseline points="1277,1298 1316,1298 1361,1295 1406,1295 1450,1295 1495,1292 1540,1292"/>
+                <TextEquiv>
+                    <Unicode>sión de energía?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1352,1298 2185,1277 2185,1327 1352,1348"/>
+                <Baseline points="1352,1343 1379,1340 1424,1340 1468,1340 1513,1340 1558,1337 1603,1337 1648,1337 1692,1334 1737,1334 1782,1334 1827,1331 1871,1331 1916,1328 1961,1328 2006,1328 2051,1325 2095,1325 2140,1322 2185,1322"/>
+                <TextEquiv>
+                    <Unicode>Los unos la consideran estática o potencial de su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1277,1346 2119,1325 2119,1375 1277,1396"/>
+                <Baseline points="1277,1391 1313,1391 1358,1388 1403,1388 1447,1388 1492,1385 1537,1382 1582,1385 1627,1382 1671,1382 1716,1382 1761,1379 1806,1379 1851,1379 1895,1376 1940,1376 1985,1373 2030,1373 2074,1370 2119,1370"/>
+                <TextEquiv>
+                    <Unicode>naturaleza y la comparan á la del algodon polvora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1358,1391 2179,1367 2179,1417 2134,1423 1358,1441"/>
+                <Baseline points="1358,1436 1373,1436 1418,1433 1462,1433 1507,1433 1552,1433 1597,1430 1642,1427 1686,1427 1731,1427 1776,1427 1821,1424 1865,1424 1910,1421 1955,1421 2000,1421 2045,1418 2089,1418 2134,1418 2179,1412"/>
+                <TextEquiv>
+                    <Unicode>otros la comparan a la de la revolución de los pla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1277,1438 2000,1423 2000,1473 1277,1488"/>
+                <Baseline points="1277,1483 1283,1483 1328,1483 1373,1480 1418,1480 1462,1477 1507,1477 1552,1477 1597,1474 1642,1474 1686,1474 1731,1471 1776,1471 1821,1468 1865,1468 1910,1465 1955,1465 2000,1468"/>
+                <TextEquiv>
+                    <Unicode>neta. Esto es lo que parece más versimil.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1355,1483 2185,1459 2185,1509 1355,1533"/>
+                <Baseline points="1355,1528 1379,1528 1424,1528 1468,1525 1513,1522 1558,1522 1603,1522 1648,1519 1692,1519 1737,1516 1782,1516 1827,1513 1871,1513 1916,1510 1961,1513 2006,1510 2051,1510 2095,1507 2140,1504 2185,1504"/>
+                <TextEquiv>
+                    <Unicode>Auque se viene comprobando que la energía mole¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1283,1531 2185,1507 2185,1557 1283,1581"/>
+                <Baseline points="1283,1576 1289,1576 1334,1576 1379,1573 1424,1573 1468,1573 1513,1570 1558,1570 1603,1567 1648,1564 1692,1567 1737,1564 1782,1564 1827,1561 1871,1558 1916,1558 1961,1558 2006,1558 2051,1555 2095,1555 2140,1552 2185,1552"/>
+                <TextEquiv>
+                    <Unicode>cular y química, a veces se encuentra interceptada por¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1292,1582 2185,1555 2185,1605 1292,1632"/>
+                <Baseline points="1292,1627 1334,1621 1379,1621 1424,1618 1468,1618 1513,1618 1558,1618 1603,1615 1648,1615 1692,1612 1737,1609 1782,1609 1827,1606 1871,1606 1916,1606 1961,1606 2006,1603 2051,1603 2095,1600 2140,1600 2185,1600"/>
+                <TextEquiv>
+                    <Unicode>partemos electricas que producen perupciones en la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1292,1626 2182,1597 2182,1647 1292,1676"/>
+                <Baseline points="1292,1671 1331,1665 1376,1665 1421,1665 1465,1665 1510,1662 1555,1662 1600,1659 1645,1659 1689,1656 1734,1656 1779,1653 1824,1653 1868,1653 1913,1650 1958,1650 2003,1648 2048,1648 2092,1648 2137,1645 2182,1642"/>
+                <TextEquiv>
+                    <Unicode>primera imprimiendole un movimiento tengencial come¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1283,1668 2110,1644 2110,1694 1283,1718"/>
+                <Baseline points="1283,1713 1304,1716 1349,1713 1394,1713 1439,1710 1483,1710 1528,1707 1573,1707 1618,1704 1662,1701 1707,1701 1752,1701 1797,1698 1842,1698 1886,1698 1931,1695 1976,1695 2021,1692 2065,1692 2110,1689"/>
+                <TextEquiv>
+                    <Unicode>tario en ver de conservar su movimiento lanetio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1355,1713 2188,1689 2188,1739 1355,1763"/>
+                <Baseline points="1355,1758 1382,1755 1427,1755 1471,1755 1516,1752 1561,1752 1606,1752 1650,1749 1695,1749 1740,1749 1785,1746 1830,1743 1874,1743 1919,1743 1964,1743 2009,1740 2054,1740 2098,1740 2143,1737 2188,1734"/>
+                <TextEquiv>
+                    <Unicode>Todo este vibramiento prodicioso de la materia nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1286,1761 2182,1734 2182,1784 1286,1811"/>
+                <Baseline points="1286,1806 1331,1806 1376,1806 1421,1803 1465,1803 1510,1803 1555,1800 1600,1797 1645,1797 1689,1797 1734,1794 1779,1794 1824,1791 1868,1791 1913,1788 1958,1788 2003,1788 2048,1785 2092,1785 2137,1782 2182,1779"/>
+                <TextEquiv>
+                    <Unicode>hace suponer que el hombre derritara de su estudio mu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1286,1806 2182,1782 2182,1832 1286,1856"/>
+                <Baseline points="1286,1851 1331,1851 1376,1851 1421,1851 1465,1848 1510,1845 1555,1845 1600,1845 1645,1845 1689,1842 1734,1842 1779,1839 1824,1839 1868,1836 1913,1833 1958,1833 2003,1833 2048,1833 2092,1830 2137,1830 2182,1827"/>
+                <TextEquiv>
+                    <Unicode>las nuevas invenciones que darán poderoso impulso al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1286,1853 1716,1844 1716,1894 1286,1903"/>
+                <Baseline points="1286,1898 1313,1898 1358,1895 1403,1895 1447,1892 1492,1892 1537,1892 1582,1892 1627,1889 1671,1889 1716,1889"/>
+                <TextEquiv>
+                    <Unicode>poeres de la humanidad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1358,1901 2188,1871 2188,1921 1358,1951"/>
+                <Baseline points="1358,1946 1382,1943 1427,1940 1471,1940 1516,1940 1561,1940 1606,1937 1650,1937 1695,1934 1740,1934 1785,1931 1830,1931 1874,1928 1919,1928 1964,1928 2009,1925 2054,1922 2098,1922 2143,1919 2188,1916"/>
+                <TextEquiv>
+                    <Unicode>Las partículas y energía electrica son más dociles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1286,1949 2188,1919 2188,1969 1286,1999"/>
+                <Baseline points="1286,1994 1292,1991 1337,1991 1382,1988 1427,1988 1471,1988 1516,1985 1561,1982 1606,1985 1650,1982 1695,1982 1740,1979 1785,1976 1830,1976 1874,1976 1919,1976 1964,1973 2009,1973 2054,1970 2098,1970 2143,1967 2188,1964"/>
+                <TextEquiv>
+                    <Unicode>al impulso que le de la inteligencia del hombre, y por su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1286,1994 2191,1967 2191,2017 1286,2044"/>
+                <Baseline points="1286,2039 1295,2036 1340,2036 1385,2036 1430,2036 1474,2033 1519,2030 1564,2030 1609,2030 1653,2027 1698,2027 1743,2027 1788,2027 1833,2024 1877,2021 1922,2021 1967,2018 2012,2018 2057,2015 2101,2015 2146,2012 2191,2012"/>
+                <TextEquiv>
+                    <Unicode>medio ha sido posible la fasmisión del pensamiento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1286,2038 2194,2015 2194,2065 1286,2088"/>
+                <Baseline points="1286,2083 1298,2083 1343,2083 1388,2080 1433,2080 1477,2077 1522,2074 1567,2074 1612,2074 1656,2071 1701,2071 1746,2071 1791,2071 1836,2068 1880,2068 1925,2068 1970,2065 2015,2063 2060,2063 2104,2060 2149,2060 2194,2060"/>
+                <TextEquiv>
+                    <Unicode>humano por el elegrato sin hillo; pero el estudio de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1289,2083 2191,2062 2191,2112 1289,2133"/>
+                <Baseline points="1289,2128 1295,2128 1340,2128 1385,2128 1430,2125 1474,2125 1519,2122 1564,2122 1609,2122 1653,2119 1698,2119 1743,2116 1788,2116 1833,2116 1877,2113 1922,2113 1967,2110 2012,2110 2057,2107 2101,2107 2146,2107 2191,2107"/>
+                <TextEquiv>
+                    <Unicode>enereía molecular promete maravillas sorprendentes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1283,2128 2188,2104 2188,2154 1283,2178"/>
+                <Baseline points="1283,2173 1292,2173 1337,2173 1382,2173 1427,2173 1471,2170 1516,2170 1561,2167 1606,2167 1650,2164 1695,2164 1740,2161 1785,2161 1830,2161 1874,2161 1919,2158 1964,2158 2009,2155 2054,2155 2098,2152 2143,2152 2188,2149"/>
+                <TextEquiv>
+                    <Unicode>cuyo desarrollo solo es cuestión de tiempo, la Ciencia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1283,2176 2146,2152 2146,2202 1283,2226"/>
+                <Baseline points="1283,2221 1295,2221 1340,2221 1385,2221 1430,2221 1474,2218 1519,2215 1564,2215 1609,2215 1653,2215 1698,2212 1743,2212 1788,2209 1833,2209 1877,2209 1922,2206 1967,2206 2012,2203 2057,2200 2101,2200 2146,2197"/>
+                <TextEquiv>
+                    <Unicode>marcha imperterita a la conquista de lo desconocido.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1358,2232 2188,2218 2188,2268 1358,2282"/>
+                <Baseline points="1358,2277 1382,2277 1427,2274 1471,2274 1516,2271 1561,2271 1606,2269 1650,2271 1695,2269 1740,2269 1785,2269 1830,2266 1874,2266 1919,2266 1964,2263 2009,2263 2054,2260 2098,2260 2143,2260 2188,2263"/>
+                <TextEquiv>
+                    <Unicode>Los secretos de Natura tienen que ser revelados.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1286,2280 2203,2259 2203,2309 1286,2330"/>
+                <Baseline points="1286,2325 1307,2325 1352,2325 1397,2325 1442,2322 1486,2322 1531,2319 1576,2319 1621,2319 1665,2319 1710,2316 1755,2316 1800,2316 1845,2313 1889,2313 1934,2313 1979,2310 2024,2310 2068,2307 2113,2307 2158,2307 2203,2304"/>
+                <TextEquiv>
+                    <Unicode>El hombre necesita de las conquistas de la Ciencia para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="1289,2325 2197,2307 2197,2357 1289,2375"/>
+                <Baseline points="1289,2370 1301,2370 1346,2370 1391,2367 1436,2370 1480,2367 1525,2367 1570,2364 1615,2364 1659,2364 1704,2361 1749,2361 1794,2358 1839,2361 1883,2358 1928,2358 1973,2358 2018,2355 2063,2355 2107,2355 2152,2352 2197,2352"/>
+                <TextEquiv>
+                    <Unicode>muer realizar en adelanto progrestro en el tiempo y en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="1292,2376 2185,2355 2185,2405 1292,2426"/>
+                <Baseline points="1292,2421 1334,2418 1379,2418 1424,2415 1468,2415 1513,2412 1558,2412 1603,2409 1648,2412 1692,2409 1737,2409 1782,2409 1827,2406 1871,2406 1916,2403 1961,2403 2006,2403 2051,2400 2095,2400 2140,2397 2185,2400"/>
+                <TextEquiv>
+                    <Unicode>la eternidad de su existir pstumico a traves del infinito.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395419_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="1689,2415 1794,2415 1794,2465 1689,2465"/>
+                <Baseline points="1689,2460 1734,2460 1779,2460 1794,2460"/>
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395422" custom="readingOrder {index:5;}">
+            <Coords points="1298,2475 2217,2475 2217,2562 1298,2562"/>
+            <TextLine id="tr_1761395422_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1334,2495 2143,2480 2143,2530 1334,2545"/>
+                <Baseline points="1334,2540 1337,2537 1382,2537 1427,2537 1471,2534 1516,2534 1561,2534 1606,2534 1650,2534 1695,2531 1740,2531 1785,2531 1830,2531 1874,2531 1919,2531 1964,2528 2009,2528 2054,2528 2098,2525 2143,2525"/>
+                <TextEquiv>
+                    <Unicode>PROPIEDAD INTOXICANTE DE LOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395427" custom="readingOrder {index:6;}">
+            <Coords points="1308,2547 2153,2547 2153,2624 1308,2624"/>
+            <TextLine id="tr_1761395427_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1624,2552 1845,2543 1845,2593 1624,2602"/>
+                <Baseline points="1624,2597 1665,2594 1710,2594 1755,2591 1800,2588 1845,2588"/>
+                <TextEquiv>
+                    <Unicode>HUEVOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395425" custom="readingOrder {index:7;}">
+            <Coords points="303,733 1263,733 1263,830 303,830"/>
+            <TextLine id="tr_1761395425_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="331,695 1236,689 1236,739 331,745"/>
+                <Baseline points="331,740 340,740 385,740 429,737 474,737 519,737 564,740 609,740 653,737 698,740 743,740 788,737 832,737 877,737 922,737 967,737 1012,737 1056,737 1101,734 1146,731 1191,728 1236,734"/>
+                <TextEquiv>
+                    <Unicode>LO INFINTTAMENTE GRANDE Y LO INEI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395425_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="507,755 1068,752 1068,802 507,805"/>
+                <Baseline points="507,800 531,800 576,800 620,800 665,797 710,797 755,800 800,797 844,800 889,797 934,797 979,797 1024,794 1068,797"/>
+                <TextEquiv>
+                    <Unicode>NITAMENTE PEOUENO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395426" custom="readingOrder {index:8;}">
+            <Coords points="997,3156 1492,3156 1492,3215 997,3215"/>
+            <TextLine id="tr_1761395426_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1032,3155 1453,3152 1453,3202 1032,3205"/>
+                <Baseline points="1032,3200 1050,3200 1095,3200 1140,3200 1185,3203 1230,3200 1274,3200 1319,3200 1364,3200 1409,3200 1453,3197"/>
+                <TextEquiv>
+                    <Unicode>Ayuntamiento de Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395418" custom="readingOrder {index:9;}">
+            <Coords points="1262,2654 2245,2654 2245,3101 1262,3101"/>
+            <TextLine id="tr_1761395418_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1361,2662 2200,2650 2200,2700 1361,2712"/>
+                <Baseline points="1361,2707 1394,2710 1439,2707 1483,2707 1528,2707 1573,2704 1618,2704 1662,2704 1707,2704 1752,2704 1797,2701 1842,2701 1886,2701 1931,2701 1976,2701 2021,2701 2065,2698 2110,2698 2155,2698 2200,2695"/>
+                <TextEquiv>
+                    <Unicode>Hace algún tiempo se hicieron en Francia algunos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1289,2710 2197,2698 2197,2748 1289,2760"/>
+                <Baseline points="1289,2755 1301,2755 1346,2755 1391,2755 1436,2755 1480,2752 1525,2752 1570,2749 1615,2749 1659,2752 1704,2752 1749,2749 1794,2749 1839,2749 1883,2746 1928,2746 1973,2746 2018,2746 2063,2746 2107,2746 2152,2743 2197,2743"/>
+                <TextEquiv>
+                    <Unicode>experimentos con las venas de los huevos de galina y de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1289,2758 2191,2743 2191,2793 1289,2808"/>
+                <Baseline points="1289,2803 1295,2803 1340,2803 1385,2803 1430,2800 1474,2800 1519,2800 1564,2800 1609,2797 1653,2797 1698,2797 1743,2797 1788,2797 1833,2794 1877,2794 1922,2794 1967,2794 2012,2791 2057,2791 2101,2791 2146,2791 2191,2788"/>
+                <TextEquiv>
+                    <Unicode>tortuna, y e enconto que encierran substancias que in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1298,2806 2197,2791 2197,2841 1298,2856"/>
+                <Baseline points="1298,2851 1301,2848 1346,2848 1391,2848 1436,2845 1480,2845 1525,2845 1570,2845 1615,2845 1659,2845 1704,2845 1749,2842 1794,2842 1839,2842 1883,2839 1928,2839 1973,2839 2018,2836 2063,2839 2107,2836 2152,2836 2197,2836"/>
+                <TextEquiv>
+                    <Unicode>vectadas nimodericamente en las venas, determinan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1298,2850 2188,2833 2188,2883 2143,2889 1298,2900"/>
+                <Baseline points="1298,2895 1337,2895 1382,2895 1427,2892 1471,2892 1516,2892 1561,2892 1606,2889 1650,2892 1695,2889 1740,2889 1785,2887 1830,2887 1874,2884 1919,2887 1964,2887 2009,2884 2054,2884 2098,2884 2143,2884 2188,2878"/>
+                <TextEquiv>
+                    <Unicode>prontamente la muerte por intosicación aguda del se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1292,2895 1650,2889 1650,2939 1292,2945"/>
+                <Baseline points="1292,2940 1337,2940 1382,2940 1427,2934 1471,2937 1516,2937 1561,2937 1606,2937 1650,2934"/>
+                <TextEquiv>
+                    <Unicode>tema nervino entra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1367,2940 2197,2928 2197,2978 1367,2990"/>
+                <Baseline points="1367,2985 1391,2985 1436,2982 1480,2985 1525,2985 1570,2982 1615,2982 1659,2982 1704,2982 1749,2982 1794,2979 1839,2979 1883,2979 1928,2976 1973,2979 2018,2976 2063,2976 2107,2973 2152,2973 2197,2973"/>
+                <TextEquiv>
+                    <Unicode>La vema del huevo de gallina no es tan tórica como</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1289,2988 2197,2976 2197,3026 1289,3038"/>
+                <Baseline points="1289,3033 1301,3033 1346,3033 1391,3030 1436,3030 1480,3033 1525,3030 1570,3027 1615,3027 1659,3027 1704,3027 1749,3027 1794,3027 1839,3024 1883,3024 1928,3024 1973,3024 2018,3024 2063,3021 2107,3021 2152,3021 2197,3021"/>
+                <TextEquiv>
+                    <Unicode>la de tortura. En esta aún la clara alaminos, es tonica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395418_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1286,3033 1940,3027 1940,3077 1286,3083"/>
+                <Baseline points="1286,3078 1313,3081 1358,3078 1403,3078 1447,3078 1492,3078 1537,3075 1582,3075 1627,3075 1671,3075 1716,3075 1761,3072 1806,3072 1851,3072 1895,3072 1940,3072"/>
+                <TextEquiv>
+                    <Unicode>as mismo introduciendola en las venas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

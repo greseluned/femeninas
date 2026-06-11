@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421001:lm=provided:date=25_10_2025_14:24</Creator>
+        <Created>2025-10-25T14:12:29.570715</Created>
+        <LastChange>2025-11-26T15:23:16.706+01:00</LastChange>
+        <TranskribusMetadata docId="11369119" pageId="104387592" pageNr="2" tsid="262765290" status="FINAL" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IABPFMDKWZAVHVLSFEEYVMRP" xmlUrl="https://files.transkribus.eu/Get?id=AEBSDNZHQZZXHOGYYJAXAPFP" imageId="87597344"/>
+    </Metadata>
+    <Page imageFilename="0002_p002.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166826812" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761394367"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761394366"/>
+                <RegionRefIndexed index="2" regionRef="tr_1761394368"/>
+                <RegionRefIndexed index="3" regionRef="tr_1761394364"/>
+                <RegionRefIndexed index="4" regionRef="tr_1761394365"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761394367" custom="readingOrder {index:0;}">
+            <Coords points="467,576 2177,576 2177,1004 467,1004"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="659,749 1247,746 1982,749 1982,799 1203,802 659,799"/>
+                <Baseline points="659,794 665,797 710,800 755,794 800,791 844,794 889,794 934,794 979,794 1024,794 1068,794 1113,794 1158,797 1203,797 1247,791 1277,794 1322,797 1367,794 1412,794 1456,794 1501,794 1546,794 1591,794 1636,794 1680,797 1725,797 1770,794 1815,794 1859,794 1904,794 1949,794 1982,794"/>
+                <TextEquiv>
+                    <Unicode>PARÍS BAZAR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394367_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="734,895 1913,901 1913,951 734,945"/>
+                <Baseline points="734,940 779,943 824,943 868,943 913,946 958,943 1003,940 1047,940 1092,940 1137,940 1182,940 1227,943 1271,940 1316,940 1361,946 1406,946 1450,943 1495,940 1540,937 1585,937 1630,940 1674,943 1719,943 1764,943 1809,943 1854,940 1898,943 1913,946"/>
+                <TextEquiv>
+                    <Unicode>P. GUSTI &amp; CO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394366" custom="readingOrder {index:1;}">
+            <Coords points="421,1447 2200,1447 2200,2502 421,2502"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="473,1523 2179,1534 2179,1584 473,1573"/>
+                <Baseline points="473,1576 480,1576 525,1576 570,1579 615,1579 659,1582 704,1582 749,1582 794,1582 838,1585 883,1585 928,1588 973,1582 1018,1582 1062,1585 1107,1585 1152,1582 1197,1585 1241,1588 1286,1585 1331,1585 1376,1585 1421,1585 1465,1585 1510,1585 1555,1588 1600,1585 1645,1588 1689,1585 1734,1582 1779,1582 1824,1582 1868,1582 1913,1582 1958,1582 2003,1579 2048,1579 2092,1579 2137,1579 2179,1579"/>
+                <TextEquiv>
+                    <Unicode>ARTICULOS QUE SE RECOMIENDAN POR SI SOLOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1883,1650 2179,1662 2179,1712 1883,1700"/>
+                <Baseline points="1883,1695 1928,1698 1973,1698 2018,1698 2063,1698 2107,1698 2152,1701 2179,1707"/>
+                <TextEquiv>
+                    <Unicode>Abanicos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="471,1653 1839,1659 1839,1709 471,1703"/>
+                <Baseline points="471,1698 516,1698 561,1695 606,1698 650,1698 695,1701 740,1698 785,1698 829,1698 874,1698 919,1701 964,1701 1009,1701 1053,1701 1098,1698 1143,1698 1188,1698 1233,1698 1277,1698 1322,1701 1367,1701 1412,1698 1456,1701 1501,1698 1546,1701 1591,1701 1636,1698 1680,1698 1725,1698 1770,1698 1815,1701 1839,1704"/>
+                <TextEquiv>
+                    <Unicode>Trajes. Faldas. Kimonas. Blusas, Batas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1886,1719 2051,1722 2051,1772 1886,1769"/>
+                <Baseline points="1886,1764 1931,1764 1976,1764 2021,1764 2051,1767"/>
+                <TextEquiv>
+                    <Unicode>Velos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="609,1722 1806,1728 1806,1778 609,1772"/>
+                <Baseline points="609,1767 653,1767 698,1767 743,1767 788,1767 832,1767 877,1767 922,1770 967,1770 1012,1767 1056,1767 1101,1767 1146,1767 1191,1767 1236,1767 1280,1770 1325,1767 1370,1767 1415,1767 1459,1767 1504,1770 1549,1767 1594,1770 1639,1767 1683,1767 1728,1767 1773,1770 1806,1773"/>
+                <TextEquiv>
+                    <Unicode>Sombrillas, Sombreros elegantísimos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1877,1791 2173,1794 2173,1844 1877,1841"/>
+                <Baseline points="1877,1836 1922,1833 1967,1833 2012,1836 2057,1833 2101,1833 2146,1836 2173,1839"/>
+                <TextEquiv>
+                    <Unicode>Bordados,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="465,1797 1824,1794 1824,1844 465,1847"/>
+                <Baseline points="465,1842 480,1845 525,1842 570,1839 615,1839 659,1839 704,1836 749,1836 794,1836 838,1836 883,1836 928,1836 973,1833 1018,1833 1062,1836 1107,1836 1152,1836 1197,1836 1241,1836 1286,1836 1331,1836 1376,1836 1421,1836 1465,1836 1510,1839 1555,1833 1600,1836 1645,1836 1689,1836 1734,1833 1779,1836 1824,1839"/>
+                <TextEquiv>
+                    <Unicode>para la cara, Guantes. Cintas, Encajes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="603,1865 2048,1856 2048,1906 603,1915"/>
+                <Baseline points="603,1910 615,1907 659,1907 704,1904 749,1901 794,1901 838,1901 883,1901 928,1901 973,1898 1018,1901 1062,1901 1107,1901 1152,1901 1197,1904 1241,1904 1286,1901 1331,1901 1376,1901 1421,1904 1465,1904 1510,1904 1555,1901 1600,1901 1645,1901 1689,1901 1734,1901 1779,1901 1824,1901 1868,1901 1913,1901 1958,1901 2003,1901 2048,1901"/>
+                <TextEquiv>
+                    <Unicode>Adornos de todas clases, Camisas de hilo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="838,1922 1821,1925 1821,1975 838,1972"/>
+                <Baseline points="838,1967 883,1970 928,1970 973,1970 1018,1970 1062,1970 1107,1970 1152,1970 1197,1973 1241,1970 1286,1970 1331,1970 1376,1970 1421,1970 1465,1970 1510,1970 1555,1967 1600,1967 1645,1967 1689,1967 1734,1967 1779,1970 1821,1970"/>
+                <TextEquiv>
+                    <Unicode>españolas. Corrsets. Pañuelos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="728,2035 1916,2035 1916,2085 728,2085"/>
+                <Baseline points="728,2080 773,2080 818,2077 862,2077 907,2080 952,2080 997,2077 1041,2077 1086,2077 1131,2077 1176,2080 1221,2080 1265,2080 1310,2077 1355,2077 1400,2077 1444,2077 1489,2077 1534,2077 1579,2077 1624,2077 1668,2077 1713,2074 1758,2074 1803,2074 1848,2074 1892,2080 1916,2080"/>
+                <TextEquiv>
+                    <Unicode>TELAS FINAS DE SEDA Y ALGODON,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="641,2131 2033,2131 2033,2181 641,2181"/>
+                <Baseline points="641,2176 686,2182 731,2182 776,2179 821,2179 865,2179 910,2176 955,2176 1000,2173 1044,2176 1089,2176 1134,2173 1179,2176 1224,2179 1268,2179 1313,2176 1358,2176 1403,2179 1447,2179 1492,2176 1537,2176 1582,2176 1627,2176 1671,2176 1716,2176 1761,2176 1806,2176 1851,2173 1895,2176 1940,2173 1985,2173 2030,2176 2033,2176"/>
+                <TextEquiv>
+                    <Unicode>OBUTOS PARA REGALO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="976,2197 1671,2197 1671,2247 976,2247"/>
+                <Baseline points="976,2242 1021,2239 1065,2239 1110,2239 1155,2239 1200,2239 1244,2242 1289,2242 1334,2239 1379,2242 1424,2239 1468,2239 1513,2239 1558,2239 1603,2239 1648,2242 1671,2242"/>
+                <TextEquiv>
+                    <Unicode>TODO NUEVO, PRIMOROSO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="979,2262 1713,2265 1713,2315 979,2312"/>
+                <Baseline points="979,2307 1024,2307 1068,2307 1113,2307 1158,2307 1203,2307 1247,2307 1292,2307 1337,2307 1382,2307 1427,2304 1471,2304 1516,2304 1561,2304 1606,2304 1650,2307 1695,2307 1713,2310"/>
+                <TextEquiv>
+                    <Unicode>TODO CHIC, TODO PRECIOSO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="982,2328 1674,2325 1674,2375 982,2378"/>
+                <Baseline points="982,2373 1003,2376 1047,2376 1092,2376 1137,2376 1182,2373 1227,2373 1271,2373 1316,2373 1361,2370 1406,2370 1450,2373 1495,2370 1540,2370 1585,2373 1630,2373 1674,2370"/>
+                <TextEquiv>
+                    <Unicode>VENGA USTED Y LO VERA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394366_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="412,2415 2227,2418 2227,2468 412,2465"/>
+                <Baseline points="412,2460 441,2466 486,2466 531,2469 576,2475 620,2475 665,2475 710,2472 755,2472 800,2472 844,2469 889,2469 934,2469 979,2469 1024,2469 1068,2466 1113,2466 1158,2469 1203,2466 1247,2466 1292,2469 1337,2469 1382,2466 1427,2466 1471,2466 1516,2469 1561,2463 1561,2463 1606,2466 1650,2466 1695,2466 1740,2466 1785,2466 1830,2466 1874,2469 1919,2469 1964,2466 2009,2466 2054,2466 2098,2463 2143,2463 2188,2463 2227,2463"/>
+                <TextEquiv>
+                    <Unicode>99992222</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394368" custom="readingOrder {index:2;}">
+            <Coords points="490,1905 2213,1905 2213,2429 490,2429"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394364" custom="readingOrder {index:3;}">
+            <Coords points="278,2520 2330,2520 2330,2990 278,2990"/>
+            <TextLine id="tr_1761394364_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="489,2558 2271,2558 2271,2608 489,2608"/>
+                <Baseline points="489,2603 534,2606 579,2612 623,2612 668,2612 713,2609 758,2609 803,2612 847,2609 892,2612 937,2609 982,2609 1027,2606 1071,2609 1116,2609 1161,2606 1206,2606 1250,2606 1295,2606 1340,2606 1385,2603 1430,2603 1474,2603 1519,2603 1564,2603 1609,2603 1653,2603 1698,2603 1743,2603 1788,2603 1833,2603 1877,2603 1922,2603 1967,2603 2012,2600 2057,2600 2101,2603 2146,2603 2191,2603 2236,2603 2271,2603"/>
+                <TextEquiv>
+                    <Unicode>"HERALDO DE LA MUJER", es el periódico femenino por excelencia. El visita los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394364_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="382,2636 2269,2624 2269,2674 382,2686"/>
+                <Baseline points="382,2681 388,2681 432,2681 477,2683 522,2681 567,2681 612,2683 656,2681 701,2681 746,2678 791,2678 835,2675 880,2678 925,2678 970,2675 1015,2675 1059,2675 1104,2675 1149,2672 1194,2672 1238,2672 1283,2672 1328,2672 1373,2672 1418,2672 1462,2672 1507,2672 1552,2672 1597,2669 1642,2672 1686,2669 1731,2669 1776,2672 1821,2669 1865,2669 1910,2669 1955,2669 2000,2669 2045,2669 2089,2669 2134,2669 2179,2669 2224,2669 2269,2669"/>
+                <TextEquiv>
+                    <Unicode>hogares de las mujeres más cultas, y de los hombres más ilustrados. Toda puertorriqueña.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394364_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="391,2704 2263,2692 2263,2742 391,2754"/>
+                <Baseline points="391,2749 426,2752 471,2749 516,2749 561,2749 606,2749 650,2749 695,2746 740,2746 785,2746 829,2746 874,2743 919,2743 964,2743 1009,2743 1053,2743 1098,2743 1143,2740 1188,2740 1233,2740 1277,2740 1322,2740 1367,2740 1412,2740 1456,2740 1501,2740 1546,2740 1591,2740 1636,2740 1680,2740 1725,2740 1770,2737 1815,2737 1859,2737 1904,2737 1949,2737 1994,2737 2039,2737 2083,2737 2128,2737 2173,2737 2218,2737 2263,2737"/>
+                <TextEquiv>
+                    <Unicode>debe ser suscriptora del periódico que coadyuya á la cultura de la mujer y defiende sus de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394364_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="391,2776 534,2773 534,2823 391,2826"/>
+                <Baseline points="391,2821 400,2821 444,2818 489,2818 534,2818"/>
+                <TextEquiv>
+                    <Unicode>rechos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394364_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="471,2847 2271,2833 2271,2883 471,2897"/>
+                <Baseline points="471,2892 480,2889 525,2892 570,2892 615,2892 659,2889 704,2889 749,2889 794,2889 838,2887 883,2887 928,2887 973,2887 1018,2887 1062,2887 1107,2884 1152,2884 1197,2884 1241,2884 1286,2881 1331,2881 1376,2881 1421,2881 1465,2881 1510,2881 1555,2881 1600,2881 1645,2881 1689,2881 1734,2881 1779,2881 1824,2881 1868,2881 1913,2881 1958,2878 2003,2878 2048,2878 2092,2878 2137,2878 2182,2878 2227,2878 2271,2878"/>
+                <TextEquiv>
+                    <Unicode>Es deber de la mujer moderna ilustrarse y vivir con su época y con su siglo. Y es deber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394364_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="382,2916 1268,2904 1268,2954 382,2966"/>
+                <Baseline points="382,2961 417,2964 462,2964 507,2961 552,2961 597,2961 641,2961 686,2958 731,2958 776,2958 821,2955 865,2955 910,2955 955,2955 1000,2955 1044,2955 1089,2952 1134,2952 1179,2952 1224,2952 1268,2949"/>
+                <TextEquiv>
+                    <Unicode>del hombre ayudarla en tan nobles empeños.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394365" custom="readingOrder {index:4;}">
+            <Coords points="981,3097 1512,3097 1512,3183 981,3183"/>
+            <TextLine id="tr_1761394365_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1030,3110 1465,3110 1465,3160 1433,3166 1030,3160"/>
+                <Baseline points="1030,3155 1074,3158 1119,3161 1164,3158 1209,3158 1253,3158 1298,3158 1343,3158 1388,3158 1433,3161 1465,3155"/>
+                <TextEquiv>
+                    <Unicode>Ayuntamiento de Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

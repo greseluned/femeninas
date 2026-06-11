@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421001:lm=provided:date=25_10_2025_14:24</Creator>
+        <Created>2025-10-25T14:12:29.570715</Created>
+        <LastChange>2025-10-25T14:24:58.404+02:00</LastChange>
+        <TranskribusMetadata docId="11369119" pageId="104387720" pageNr="24" tsid="258842799" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZGQPXOXXZHNTJKTZVNQGLNBL" xmlUrl="https://files.transkribus.eu/Get?id=MGHQBHJSSXGURIODJMTWEMEF" imageId="87597327"/>
+    </Metadata>
+    <Page imageFilename="0024_p024.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166833150" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761394360"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761394361"/>
+                <RegionRefIndexed index="2" regionRef="tr_1761394359"/>
+                <RegionRefIndexed index="3" regionRef="tr_1761394358"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761394360" custom="readingOrder {index:0;}">
+            <Coords points="485,1633 2034,1633 2034,1782 485,1782"/>
+            <TextLine id="tr_1761394360_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="626,1704 1818,1713 1818,1763 626,1754"/>
+                <Baseline points="626,1749 671,1746 716,1746 761,1746 806,1743 850,1743 895,1746 940,1746 985,1749 1030,1749 1074,1752 1119,1749 1164,1749 1209,1749 1253,1749 1298,1749 1343,1746 1388,1746 1433,1749 1477,1749 1522,1752 1567,1749 1612,1755 1656,1758 1701,1758 1746,1755 1791,1758 1818,1758"/>
+                <TextEquiv>
+                    <Unicode>Paros TIOWARD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394361" custom="readingOrder {index:1;}">
+            <Coords points="611,1673 1979,1673 1979,2303 611,2303"/>
+            <TextLine id="tr_1761394361_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="710,1829 1710,1844 1710,1894 710,1879"/>
+                <Baseline points="710,1874 755,1877 800,1877 844,1877 889,1877 934,1877 979,1877 1024,1880 1068,1877 1113,1877 1158,1880 1203,1880 1247,1883 1292,1883 1337,1883 1382,1883 1427,1883 1471,1883 1516,1883 1561,1886 1606,1886 1650,1886 1695,1889 1710,1889"/>
+                <TextEquiv>
+                    <Unicode>Conocidos en todas partes del mundo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394361_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="707,1934 1701,1943 1692,1996 707,1984"/>
+                <Baseline points="707,1979 752,1982 797,1985 841,1982 886,1982 931,1985 976,1985 1021,1982 1065,1982 1110,1985 1155,1985 1200,1985 1244,1985 1289,1985 1334,1982 1379,1985 1424,1985 1468,1985 1513,1988 1558,1988 1603,1988 1648,1991 1692,1991 1701,1988"/>
+                <TextEquiv>
+                    <Unicode>Elogiados por los artístas más famosos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394361_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="707,2041 1937,2050 1916,2103 707,2091"/>
+                <Baseline points="707,2086 752,2083 797,2083 841,2083 886,2086 931,2083 976,2086 1021,2086 1065,2089 1110,2089 1155,2086 1200,2089 1244,2089 1289,2089 1334,2089 1379,2092 1424,2089 1468,2089 1513,2089 1558,2092 1603,2092 1648,2095 1692,2095 1737,2095 1782,2095 1827,2095 1871,2098 1916,2098 1937,2095"/>
+                <TextEquiv>
+                    <Unicode>Fabricados especialmente para los países tropicales.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394361_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="710,2140 1862,2152 1862,2202 710,2190"/>
+                <Baseline points="710,2185 755,2185 800,2185 844,2185 889,2185 934,2185 979,2185 1024,2185 1068,2185 1113,2185 1158,2188 1203,2188 1247,2188 1292,2188 1337,2188 1382,2191 1427,2188 1471,2188 1516,2188 1561,2191 1606,2194 1650,2194 1695,2194 1740,2194 1785,2197 1830,2197 1862,2197"/>
+                <TextEquiv>
+                    <Unicode>El HOWARD es el piano elegido por la mayoría</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394361_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="710,2209 1806,2221 1806,2271 710,2259"/>
+                <Baseline points="710,2254 755,2254 800,2251 844,2254 889,2254 934,2254 979,2254 1024,2254 1068,2254 1113,2254 1158,2254 1203,2254 1247,2254 1292,2257 1337,2254 1382,2254 1427,2254 1471,2257 1516,2257 1561,2260 1606,2260 1650,2260 1695,2260 1740,2263 1785,2263 1806,2266"/>
+                <TextEquiv>
+                    <Unicode>de los grandes Conservatorios de música.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394359" custom="readingOrder {index:2;}">
+            <Coords points="623,1625 1987,1625 1987,2948 623,2948"/>
+            <TextLine id="tr_1761394359_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="809,2301 1743,2310 1743,2360 809,2351"/>
+                <Baseline points="809,2346 853,2343 898,2343 943,2343 988,2343 1032,2343 1077,2343 1122,2343 1167,2343 1212,2346 1256,2346 1301,2346 1346,2346 1391,2349 1436,2349 1480,2349 1525,2352 1570,2352 1615,2352 1659,2352 1704,2355 1743,2355"/>
+                <TextEquiv>
+                    <Unicode>EN PUERTO RICO HAY MAS DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394359_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="961,2391 1633,2403 1633,2453 961,2441"/>
+                <Baseline points="961,2436 1006,2439 1050,2436 1095,2436 1140,2439 1185,2436 1230,2436 1274,2439 1319,2442 1364,2442 1409,2442 1453,2445 1498,2442 1543,2442 1588,2442 1633,2448"/>
+                <TextEquiv>
+                    <Unicode>UN MILLAR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394359_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1101,2471 1459,2474 1459,2524 1101,2521"/>
+                <Baseline points="1101,2516 1146,2513 1191,2516 1236,2516 1280,2513 1325,2516 1370,2516 1415,2519 1459,2519"/>
+                <TextEquiv>
+                    <Unicode>EN 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394359_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="961,2531 1516,2540 1516,2590 961,2581"/>
+                <Baseline points="961,2576 1006,2576 1050,2579 1095,2582 1140,2582 1185,2579 1230,2582 1274,2582 1319,2585 1364,2582 1409,2585 1453,2585 1498,2585 1516,2585"/>
+                <TextEquiv>
+                    <Unicode>VISTENOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394359_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="761,2627 1791,2636 1791,2686 761,2677"/>
+                <Baseline points="761,2672 806,2669 850,2669 895,2666 940,2666 985,2669 1030,2672 1074,2672 1119,2672 1164,2669 1209,2669 1253,2672 1298,2672 1343,2672 1388,2672 1433,2672 1477,2675 1522,2672 1567,2675 1612,2678 1656,2678 1701,2678 1746,2681 1791,2681"/>
+                <TextEquiv>
+                    <Unicode>SANCHEL MORALES &amp; Co. I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394359_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="973,2686 1570,2692 1570,2742 973,2736"/>
+                <Baseline points="973,2731 1018,2731 1062,2731 1107,2731 1152,2731 1197,2734 1241,2734 1286,2734 1331,2734 1376,2734 1421,2734 1465,2734 1510,2734 1555,2737 1570,2737"/>
+                <TextEquiv>
+                    <Unicode>LA CASA QUE VENDE LO MEOR.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761394359_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="588,2844 1955,2862 1931,2915 588,2894"/>
+                <Baseline points="588,2889 632,2889 677,2889 722,2889 767,2892 812,2892 856,2892 901,2889 946,2887 991,2887 1035,2889 1080,2889 1125,2889 1170,2892 1215,2892 1259,2895 1304,2895 1349,2895 1394,2889 1439,2889 1483,2892 1528,2895 1573,2898 1618,2898 1662,2901 1707,2901 1752,2904 1797,2907 1842,2904 1886,2907 1931,2910 1955,2907"/>
+                <TextEquiv>
+                    <Unicode>San Juan... Ponte. .... Mayaguez.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761394358" custom="readingOrder {index:3;}">
+            <Coords points="997,3058 1494,3058 1494,3143 997,3143"/>
+            <TextLine id="tr_1761394358_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1032,3074 1453,3077 1453,3127 1032,3124"/>
+                <Baseline points="1032,3119 1077,3122 1122,3122 1167,3122 1212,3122 1256,3122 1301,3119 1346,3119 1391,3122 1436,3122 1453,3122"/>
+                <TextEquiv>
+                    <Unicode>Ayuntamiento de Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-15T18:37:17.810+02:00</Created>
+        <LastChange>2025-10-28T18:09:59.323+01:00</LastChange>
+        <TranskribusMetadata docId="11368967" pageId="104387287" pageNr="11" tsid="259176536" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WHYWDWMCMWKGYZOEBTDDCCOL" xmlUrl="https://files.transkribus.eu/Get?id=FXXMJQCIMKCGDBBFQZCGXUTQ" imageId="87596926"/>
+    </Metadata>
+    <Page imageFilename="0011_p011.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166470460" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+                <RegionRefIndexed index="3" regionRef="r_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3"/>
+                <RegionRefIndexed index="5" regionRef="r_4"/>
+                <RegionRefIndexed index="6" regionRef="r_5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="844,515 1863,515 1863,748 844,748"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1001,672 1632,682 1632,652 1001,642"/>
+                <Baseline points="1001,672 1632,682"/>
+                <TextEquiv>
+                    <Unicode>Fémina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="r_6" custom="readingOrder {index:1;}">
+            <Coords points="686,787 2019,787 2019,2419 686,2419"/>
+        </ImageRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;}">
+            <Coords points="1063,2405 1580,2405 1580,2510 1063,2510"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="1090,2464 1558,2470 1558,2440 1090,2434"/>
+                <Baseline points="1090,2464 1558,2470"/>
+                <TextEquiv>
+                    <Unicode>Srta. Genoveva Baez.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;}">
+            <Coords points="697,2510 1212,2510 1212,2747 697,2747"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="740,2565 1159,2563 1159,2533 740,2535"/>
+                <Baseline points="740,2565 1159,2563"/>
+                <TextEquiv>
+                    <Unicode>Es la gentil Genoveva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="716,2606 1125,2616 1126,2586 717,2576"/>
+                <Baseline points="716,2606 1125,2616"/>
+                <TextEquiv>
+                    <Unicode>sugestiva y bella flor,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="714,2656 1179,2652 1179,2622 714,2626"/>
+                <Baseline points="714,2656 1179,2652"/>
+                <TextEquiv>
+                    <Unicode>que grato perfume lleva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="720,2701 1123,2697 1123,2667 720,2671"/>
+                <Baseline points="720,2701 1123,2697"/>
+                <TextEquiv>
+                    <Unicode>en su místico candor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:4;}">
+            <Coords points="1357,2534 1992,2534 1992,2713 1357,2713"/>
+            <TextLine id="l_6" custom="readingOrder {index:0;}">
+                <Coords points="1406,2561 1948,2555 1948,2525 1406,2531"/>
+                <Baseline points="1406,2561 1948,2555"/>
+                <TextEquiv>
+                    <Unicode>El arte en su alma se anida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:1;}">
+                <Coords points="1378,2606 1790,2606 1790,2576 1378,2576"/>
+                <Baseline points="1378,2606 1790,2606"/>
+                <TextEquiv>
+                    <Unicode>con exquisito primor;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:2;}">
+                <Coords points="1372,2656 1819,2650 1819,2620 1372,2626"/>
+                <Baseline points="1372,2656 1819,2650"/>
+                <TextEquiv>
+                    <Unicode>pues ella da luz y vida,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:3;}">
+                <Coords points="1378,2690 1772,2688 1772,2658 1378,2660"/>
+                <Baseline points="1378,2690 1772,2688"/>
+                <TextEquiv>
+                    <Unicode>a la rima, y al color.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="1745,2716 1955,2716 1955,2747 1745,2747"/>
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="1758,2725 1924,2725 1924,2695 1758,2695"/>
+                <Baseline points="1758,2725 1924,2725"/>
+                <TextEquiv>
+                    <Unicode>BISFALIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:6;}">
+            <Coords points="995,2805 1677,2805 1677,2922 995,2922"/>
+            <TextLine id="l_11" custom="readingOrder {index:0;}">
+                <Coords points="1038,2844 1608,2838 1608,2808 1038,2814"/>
+                <Baseline points="1038,2844 1608,2838"/>
+                <TextEquiv>
+                    <Unicode>Imp. ALTAGRACIA.--S. P. de Macorís</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:1;}">
+                <Coords points="1248,2891 1404,2893 1404,2863 1248,2861"/>
+                <Baseline points="1248,2891 1404,2893"/>
+                <TextEquiv>
+                    <Unicode>R. A. P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421621:lm=provided:date=30_10_2025_00:41</Creator>
+        <Created>2025-10-25T14:29:52.585673</Created>
+        <LastChange>2025-10-30T00:41:38.826+01:00</LastChange>
+        <TranskribusMetadata docId="11368985" pageId="104387847" pageNr="4" tsid="259291080" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PYJKFLGLEWZXIOQEAJZIZIMV" xmlUrl="https://files.transkribus.eu/Get?id=NYATKSOMZPPLAWDFOUNGKQZY" imageId="87597591"/>
+    </Metadata>
+    <Page imageFilename="0004_p004.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166806646" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761395408"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761395412"/>
+                <RegionRefIndexed index="2" regionRef="tr_1761395414"/>
+                <RegionRefIndexed index="3" regionRef="tr_1761395405"/>
+                <RegionRefIndexed index="4" regionRef="tr_1761395415"/>
+                <RegionRefIndexed index="5" regionRef="tr_1761395413"/>
+                <RegionRefIndexed index="6" regionRef="tr_1761395410"/>
+                <RegionRefIndexed index="7" regionRef="tr_1761395404"/>
+                <RegionRefIndexed index="8" regionRef="tr_1761395403"/>
+                <RegionRefIndexed index="9" regionRef="tr_1761395411"/>
+                <RegionRefIndexed index="10" regionRef="tr_1761395409"/>
+                <RegionRefIndexed index="11" regionRef="tr_1761395406"/>
+                <RegionRefIndexed index="12" regionRef="tr_1761395407"/>
+                <RegionRefIndexed index="13" regionRef="tr_1761395416"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761395408" custom="readingOrder {index:0;}">
+            <Coords points="453,467 1031,467 1031,1073 453,1073"/>
+            <TextLine id="tr_1761395408_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="492,650 1012,656 1012,706 492,700"/>
+                <Baseline points="492,695 537,698 582,695 626,695 671,692 716,692 761,692 806,695 850,695 895,695 940,695 985,698 1012,701"/>
+                <TextEquiv>
+                    <Unicode>LEVADURA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395408_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="600,749 910,746 910,796 600,799"/>
+                <Baseline points="600,794 641,791 686,791 731,791 776,794 821,794 865,791 910,791"/>
+                <TextEquiv>
+                    <Unicode>EN POLVO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395408_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="510,946 925,949 925,999 510,996"/>
+                <Baseline points="510,991 555,988 600,988 644,988 689,988 734,988 779,991 824,991 868,991 913,994 925,994"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395412" custom="readingOrder {index:1;}">
+            <Coords points="478,583 1051,583 1051,725 478,725"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395414" custom="readingOrder {index:2;}">
+            <Coords points="457,761 1033,761 1033,1034 457,1034"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395405" custom="readingOrder {index:3;}">
+            <Coords points="1447,618 2001,618 2001,1103 1447,1103"/>
+            <TextLine id="tr_1761395405_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1519,641 1937,644 1937,694 1519,691"/>
+                <Baseline points="1519,686 1564,686 1609,686 1653,686 1698,689 1743,689 1788,689 1833,689 1877,689 1922,689 1937,689"/>
+                <TextEquiv>
+                    <Unicode>Una preparación</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395405_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1564,719 1901,719 1901,769 1564,769"/>
+                <Baseline points="1564,764 1606,758 1650,761 1695,761 1740,761 1785,761 1830,764 1874,764 1901,764"/>
+                <TextEquiv>
+                    <Unicode>perfecta para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395405_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1483,787 1988,790 1988,840 1483,837"/>
+                <Baseline points="1483,832 1528,832 1573,832 1618,832 1662,832 1707,832 1752,832 1797,835 1842,835 1886,835 1931,835 1976,835 1988,835"/>
+                <TextEquiv>
+                    <Unicode>mejorar todos los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395405_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1474,859 1982,862 1982,912 1967,915 1474,909"/>
+                <Baseline points="1474,904 1519,904 1564,904 1609,907 1653,904 1698,907 1743,907 1788,907 1833,910 1877,910 1922,910 1967,910 1982,907"/>
+                <TextEquiv>
+                    <Unicode>alimentos hechos con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395405_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1474,934 1979,937 1979,987 1967,990 1474,984"/>
+                <Baseline points="1474,979 1519,979 1564,979 1609,979 1653,979 1698,979 1743,982 1788,982 1833,982 1877,985 1922,985 1967,985 1979,982"/>
+                <TextEquiv>
+                    <Unicode>harina. De venta en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395405_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1480,1005 1931,1014 1931,1064 1480,1055"/>
+                <Baseline points="1480,1050 1525,1050 1570,1053 1615,1053 1659,1053 1704,1053 1749,1053 1794,1056 1839,1056 1883,1059 1928,1059 1931,1059"/>
+                <TextEquiv>
+                    <Unicode>todas las bodegas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395415" custom="readingOrder {index:4;}">
+            <Coords points="1488,622 1957,622 1957,714 1488,714"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395413" custom="readingOrder {index:5;}">
+            <Coords points="489,1040 1022,1040 1022,1217 489,1217"/>
+            <TextLine id="tr_1761395413_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="647,1035 871,1035 871,1085 647,1085"/>
+                <Baseline points="647,1080 692,1077 737,1077 782,1077 826,1080 871,1080"/>
+                <TextEquiv>
+                    <Unicode>La famosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395413_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="519,1086 985,1086 985,1136 519,1136"/>
+                <Baseline points="519,1131 564,1131 609,1131 653,1131 698,1131 743,1131 788,1131 832,1128 877,1131 922,1131 967,1131 985,1131"/>
+                <TextEquiv>
+                    <Unicode>Royal Baking Pouder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395413_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="644,1137 886,1137 886,1187 644,1187"/>
+                <Baseline points="644,1182 689,1182 734,1182 779,1182 824,1182 868,1182 886,1182"/>
+                <TextEquiv>
+                    <Unicode>americana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395410" custom="readingOrder {index:6;}">
+            <Coords points="507,1053 1018,1053 1018,1158 507,1158"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395404" custom="readingOrder {index:7;}">
+            <Coords points="785,367 1486,367 1486,447 785,447"/>
+            <TextLine id="tr_1761395404_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="892,387 1430,390 1430,440 892,437"/>
+                <Baseline points="892,432 937,432 982,432 1027,432 1071,432 1116,432 1161,432 1206,432 1250,432 1295,432 1340,432 1385,432 1430,435"/>
+                <TextEquiv>
+                    <Unicode>HERALDO DE LA MUJER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395403" custom="readingOrder {index:8;}">
+            <Coords points="991,3099 1500,3099 1500,3181 991,3181"/>
+            <TextLine id="tr_1761395403_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1050,3110 1433,3113 1433,3163 1050,3160"/>
+                <Baseline points="1050,3155 1095,3158 1140,3161 1185,3161 1230,3158 1274,3158 1319,3161 1364,3161 1409,3158 1433,3158"/>
+                <TextEquiv>
+                    <Unicode>Ayuntamiento de Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395411" custom="readingOrder {index:9;}">
+            <Coords points="514,1265 1804,1265 1804,1386 514,1386"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395409" custom="readingOrder {index:10;}">
+            <Coords points="524,1271 1892,1271 1892,2097 524,2097"/>
+            <TextLine id="tr_1761395409_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="632,1310 1821,1316 1821,1366 632,1360"/>
+                <Baseline points="632,1355 677,1355 722,1352 767,1355 812,1358 856,1358 901,1355 946,1358 991,1358 1035,1358 1080,1358 1125,1358 1170,1358 1215,1358 1259,1361 1304,1358 1349,1358 1394,1358 1439,1355 1483,1358 1528,1358 1573,1361 1618,1361 1662,1361 1707,1361 1752,1358 1797,1361 1821,1361"/>
+                <TextEquiv>
+                    <Unicode>Hace el Hornear en Casa raci¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="570,1370 1901,1382 1901,1432 570,1420"/>
+                <Baseline points="570,1415 615,1421 659,1418 704,1418 749,1418 794,1418 838,1418 883,1421 928,1418 973,1418 1018,1421 1062,1421 1107,1421 1152,1421 1197,1421 1241,1418 1286,1418 1331,1418 1376,1418 1421,1418 1465,1421 1510,1418 1555,1421 1600,1421 1645,1424 1689,1421 1734,1421 1779,1424 1824,1424 1868,1424 1901,1427"/>
+                <TextEquiv>
+                    <Unicode>Con el auxilio de la ROYAL BARING POUDER se pueden hacer en casa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="576,1414 1895,1414 1874,1467 576,1464"/>
+                <Baseline points="576,1459 620,1456 665,1453 710,1453 755,1456 800,1456 844,1456 889,1456 934,1456 979,1456 1024,1456 1068,1459 1113,1456 1158,1456 1203,1459 1247,1459 1292,1456 1337,1456 1382,1459 1427,1459 1471,1459 1516,1459 1561,1459 1606,1459 1650,1459 1695,1459 1740,1459 1785,1459 1830,1459 1874,1462 1895,1459"/>
+                <TextEquiv>
+                    <Unicode>pones y pacimente muras hermanos panecios pasata, el apreciosos y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="570,1447 1648,1450 1648,1500 570,1497"/>
+                <Baseline points="570,1492 615,1492 659,1492 704,1492 749,1492 794,1492 838,1492 883,1492 928,1492 973,1492 1018,1495 1062,1492 1107,1495 1152,1495 1197,1495 1241,1495 1286,1492 1331,1492 1376,1495 1421,1495 1465,1495 1510,1492 1555,1492 1600,1495 1645,1495 1648,1495"/>
+                <TextEquiv>
+                    <Unicode>anos de tores que los que pueden comprane en las parecer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="576,1492 1298,1495 1298,1545 576,1542"/>
+                <Baseline points="576,1537 620,1537 665,1534 710,1537 755,1540 800,1537 844,1537 889,1537 934,1537 979,1537 1024,1537 1068,1537 1113,1540 1158,1540 1203,1537 1247,1540 1292,1540 1298,1540"/>
+                <TextEquiv>
+                    <Unicode>Convencanse probando la receta siguiente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="716,1561 1737,1552 1737,1602 1648,1611 716,1611"/>
+                <Baseline points="716,1606 752,1603 797,1600 841,1600 886,1603 931,1603 976,1603 1021,1600 1065,1600 1110,1603 1155,1603 1200,1606 1244,1606 1289,1606 1334,1606 1379,1606 1424,1606 1468,1606 1513,1606 1558,1603 1603,1606 1648,1606 1692,1603 1737,1597"/>
+                <TextEquiv>
+                    <Unicode>BICOCHOS ROTAL BARING PODER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="701,1600 961,1600 961,1650 701,1650"/>
+                <Baseline points="701,1645 746,1645 791,1645 835,1645 880,1645 925,1645 961,1645"/>
+                <TextEquiv>
+                    <Unicode>anas de harina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1227,1603 1695,1603 1695,1653 1227,1653"/>
+                <Baseline points="1227,1648 1271,1645 1316,1645 1361,1645 1406,1648 1450,1648 1495,1648 1540,1648 1585,1648 1630,1648 1674,1648 1695,1648"/>
+                <TextEquiv>
+                    <Unicode>encaradas de manera otra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="698,1626 1098,1629 1098,1679 698,1676"/>
+                <Baseline points="698,1671 743,1671 788,1671 832,1671 877,1671 922,1671 967,1671 1012,1668 1056,1668 1098,1674"/>
+                <TextEquiv>
+                    <Unicode>GRA RONAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1259,1629 1349,1629 1349,1679 1259,1679"/>
+                <Baseline points="1259,1674 1304,1674 1349,1674"/>
+                <TextEquiv>
+                    <Unicode>mas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="737,1659 1062,1659 1062,1709 737,1709"/>
+                <Baseline points="737,1704 782,1701 826,1701 871,1698 916,1701 961,1701 1006,1701 1050,1704 1062,1704"/>
+                <TextEquiv>
+                    <Unicode>APINASE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1230,1659 1447,1656 1447,1706 1230,1709"/>
+                <Baseline points="1230,1704 1268,1707 1313,1704 1358,1704 1403,1704 1447,1701"/>
+                <TextEquiv>
+                    <Unicode>la de leche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="698,1692 1012,1692 1012,1742 698,1742"/>
+                <Baseline points="698,1737 743,1734 788,1734 832,1734 877,1734 922,1734 967,1734 1012,1737"/>
+                <TextEquiv>
+                    <Unicode>Panarada de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="656,1731 1809,1734 1809,1784 1776,1787 656,1781"/>
+                <Baseline points="656,1776 701,1776 746,1779 791,1776 835,1776 880,1776 925,1776 970,1779 1015,1776 1059,1776 1104,1779 1149,1779 1194,1776 1238,1782 1283,1779 1328,1782 1373,1779 1418,1779 1462,1779 1507,1782 1552,1782 1597,1782 1642,1782 1686,1782 1731,1782 1776,1782 1809,1779"/>
+                <TextEquiv>
+                    <Unicode>Ciernanse juntos los ingredientes secos agreguesele la manteca y otra grasa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="659,1764 1800,1764 1800,1814 659,1814"/>
+                <Baseline points="659,1809 704,1809 749,1809 794,1806 838,1806 883,1809 928,1809 973,1809 1018,1809 1062,1809 1107,1806 1152,1809 1197,1809 1241,1809 1286,1809 1331,1809 1376,1809 1421,1809 1465,1809 1510,1809 1555,1809 1600,1809 1645,1809 1689,1809 1734,1809 1779,1809 1800,1809"/>
+                <TextEquiv>
+                    <Unicode>y ener la este sumanes por agres una a a que meras en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="656,1785 1809,1797 1809,1847 656,1835"/>
+                <Baseline points="656,1830 698,1839 743,1839 788,1839 832,1839 877,1836 922,1839 967,1839 1012,1839 1056,1839 1101,1839 1146,1839 1191,1839 1236,1839 1280,1839 1325,1839 1370,1842 1415,1839 1459,1839 1504,1839 1549,1842 1594,1839 1639,1842 1683,1842 1728,1842 1773,1842 1809,1842"/>
+                <TextEquiv>
+                    <Unicode>las cos mas cana aurorada de marnada, en a mora, en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="656,1820 1659,1826 1659,1876 656,1870"/>
+                <Baseline points="656,1865 701,1868 746,1868 791,1871 835,1868 880,1871 925,1871 970,1871 1015,1871 1059,1871 1104,1871 1149,1871 1194,1871 1238,1871 1283,1871 1328,1871 1373,1871 1418,1871 1462,1871 1507,1871 1552,1871 1597,1871 1642,1871 1659,1871"/>
+                <TextEquiv>
+                    <Unicode>arcano pensana va por en estente de en es nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="632,1913 1830,1916 1830,1966 1797,1969 632,1963"/>
+                <Baseline points="632,1958 677,1961 722,1961 767,1961 812,1961 856,1964 901,1964 946,1961 991,1961 1035,1964 1080,1964 1125,1964 1170,1961 1215,1964 1259,1964 1304,1964 1349,1961 1394,1961 1439,1961 1483,1964 1528,1961 1573,1961 1618,1964 1662,1964 1707,1964 1752,1964 1797,1964 1830,1961"/>
+                <TextEquiv>
+                    <Unicode>El Manual Roval del Panadero y pastelero, conte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="629,1949 1824,1955 1824,2005 629,1999"/>
+                <Baseline points="629,1994 674,2000 719,1997 764,2000 809,2000 853,2000 898,2000 943,2000 988,2000 1032,2000 1077,2000 1122,2000 1167,2000 1212,2000 1256,2000 1301,2000 1346,2000 1391,1997 1436,2000 1480,2000 1525,2000 1570,2000 1615,1997 1659,2000 1704,2000 1749,2000 1794,2000 1824,2000"/>
+                <TextEquiv>
+                    <Unicode>niendo muenas otras recenas de enviara por correo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="635,1994 1830,1994 1830,2044 635,2044"/>
+                <Baseline points="635,2039 680,2036 725,2036 770,2036 815,2036 859,2036 904,2039 949,2036 994,2039 1038,2039 1083,2039 1128,2039 1173,2039 1218,2042 1262,2039 1307,2039 1352,2039 1397,2039 1442,2039 1486,2039 1531,2039 1576,2039 1621,2039 1665,2039 1710,2039 1755,2039 1800,2039 1830,2039"/>
+                <TextEquiv>
+                    <Unicode>gratis a toda persona que nos mande su nombre y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395409_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="626,2026 862,2032 862,2082 626,2076"/>
+                <Baseline points="626,2071 671,2074 716,2071 761,2074 806,2074 850,2074 862,2077"/>
+                <TextEquiv>
+                    <Unicode>rección.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395406" custom="readingOrder {index:11;}">
+            <Coords points="484,2072 1982,2072 1982,2327 484,2327"/>
+            <TextLine id="tr_1761395406_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="561,2110 1898,2122 1898,2172 561,2160"/>
+                <Baseline points="561,2155 606,2158 650,2158 695,2158 740,2158 785,2158 829,2161 874,2161 919,2161 964,2161 1009,2161 1053,2161 1098,2161 1143,2161 1188,2161 1233,2161 1277,2161 1322,2161 1367,2161 1412,2161 1456,2161 1501,2161 1546,2161 1591,2161 1636,2161 1680,2161 1725,2161 1770,2161 1815,2161 1859,2164 1898,2167"/>
+                <TextEquiv>
+                    <Unicode>Si la bodega donde Ua, compra no vende la levadura en polvo Royal,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395406_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="561,2143 1486,2155 1486,2205 561,2193"/>
+                <Baseline points="561,2188 603,2197 647,2194 692,2197 737,2197 782,2197 826,2200 871,2197 916,2200 961,2197 1006,2200 1050,2200 1095,2200 1140,2197 1185,2197 1230,2197 1274,2200 1319,2200 1364,2197 1409,2200 1453,2197 1486,2200"/>
+                <TextEquiv>
+                    <Unicode>escribanos y de airemos donde puede conseguiria.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395406_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="725,2215 1737,2224 1737,2274 725,2265"/>
+                <Baseline points="725,2260 770,2263 815,2263 859,2266 904,2266 949,2266 994,2266 1038,2266 1083,2266 1128,2263 1173,2263 1218,2263 1262,2266 1307,2266 1352,2266 1397,2269 1442,2266 1486,2266 1531,2269 1576,2269 1621,2266 1665,2266 1710,2266 1737,2269"/>
+                <TextEquiv>
+                    <Unicode>RONAL BARING PONDER CO, New York, USA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395407" custom="readingOrder {index:12;}">
+            <Coords points="399,2524 2013,2524 2013,2793 399,2793"/>
+            <TextLine id="tr_1761395407_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="528,2674 1814,2682 1814,2732 528,2724"/>
+                <Baseline points="528,2719 573,2719 618,2719 662,2722 707,2725 752,2725 797,2725 841,2725 886,2728 931,2728 976,2734 1021,2731 1065,2728 1110,2725 1155,2731 1200,2731 1244,2731 1289,2731 1334,2731 1379,2731 1424,2731 1468,2728 1513,2728 1558,2731 1603,2731 1648,2731 1692,2728 1737,2728 1782,2728 1814,2727"/>
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395407_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1865,2677 1910,2686 1937,2680 1937,2730 1910,2736 1865,2727"/>
+                <Baseline points="1865,2722 1910,2731 1937,2725"/>
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395416" custom="readingOrder {index:13;}">
+            <Coords points="1356,2507 1998,2507 1998,2780 1356,2780"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

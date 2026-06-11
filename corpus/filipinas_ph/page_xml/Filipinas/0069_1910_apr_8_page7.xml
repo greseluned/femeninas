@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=419461:lm=provided:date=26_10_2025_00:23</Creator>
+        <Created>2025-10-25T14:26:41.964298</Created>
+        <LastChange>2025-10-26T00:23:27.186+02:00</LastChange>
+        <TranskribusMetadata docId="11368283" pageId="104384742" pageNr="69" tsid="258865679" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KKMNYRMUELPDDJGQIVIKIAYN" xmlUrl="https://files.transkribus.eu/Get?id=EPHBZLINIANEIRJBWBLTAYAB" imageId="87594596"/>
+    </Metadata>
+    <Page imageFilename="0069_1910_apr_8_page7.jpg" imageWidth="4115" imageHeight="5992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166672191" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761395229"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761395228"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761395229" custom="readingOrder {index:0;}">
+            <Coords points="884,4936 3021,4936 3021,5115 884,5115"/>
+            <TextLine id="tr_1761395229_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1438,5039 2548,5033 2548,5083 1438,5089"/>
+                <Baseline points="1438,5084 1474,5078 1563,5078 1653,5078 1742,5078 1832,5078 1921,5078 2011,5072 2100,5072 2190,5072 2279,5072 2369,5078 2458,5078 2548,5078"/>
+                <TextEquiv>
+                    <Unicode>Sria. Carmen Edano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761395228" custom="readingOrder {index:1;}">
+            <Coords points="165,5158 2670,5158 2670,5616 165,5616"/>
+            <TextLine id="tr_1761395228_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="561,5206 3718,5183 3718,5233 561,5256"/>
+                <Baseline points="561,5251 584,5251 674,5251 763,5245 853,5240 942,5245 1032,5240 1122,5240 1211,5240 1301,5240 1390,5240 1480,5234 1569,5240 1659,5240 1748,5234 1838,5234 1927,5228 2017,5228 2106,5228 2196,5228 2285,5228 2375,5228 2464,5228 2554,5228 2643,5228 2733,5228 2822,5228 2912,5228 3001,5228 3091,5228 3181,5228 3270,5222 3360,5222 3449,5222 3539,5222 3628,5228 3718,5228"/>
+                <TextEquiv>
+                    <Unicode>El presente grabado con que engalanamos este número de nuestro semanario, pertenece á una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395228_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="292,5278 3724,5254 3724,5304 292,5328"/>
+                <Baseline points="292,5323 322,5323 411,5323 501,5323 590,5323 680,5317 769,5317 859,5317 948,5317 1038,5317 1127,5311 1217,5311 1307,5311 1396,5311 1486,5311 1575,5311 1665,5305 1754,5305 1844,5305 1933,5305 2023,5299 2112,5299 2202,5299 2291,5299 2381,5299 2470,5299 2560,5299 2649,5299 2739,5299 2828,5299 2918,5299 3007,5299 3097,5299 3186,5299 3276,5299 3366,5299 3455,5299 3545,5299 3634,5299 3724,5299"/>
+                <TextEquiv>
+                    <Unicode>de las jóvenes que más se distinguen por su cultura e ilusimción en el pueblo de Lucena, de la provincia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395228_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="286,5356 3730,5332 3730,5382 286,5406"/>
+                <Baseline points="286,5401 328,5401 417,5395 507,5395 596,5395 686,5389 775,5389 865,5383 954,5383 1044,5383 1133,5389 1223,5383 1312,5389 1402,5383 1492,5383 1581,5383 1671,5383 1760,5377 1850,5377 1939,5377 2029,5377 2118,5377 2208,5377 2297,5377 2387,5377 2476,5377 2566,5377 2655,5383 2745,5377 2834,5377 2924,5377 3013,5377 3103,5371 3192,5377 3282,5371 3371,5371 3461,5371 3551,5371 3640,5371 3730,5377"/>
+                <TextEquiv>
+                    <Unicode>de Tayabas donde vió la luz primera, Tiene sus dieciocho Abriles, y en la actualidad regenta el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761395228_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="286,5433 1879,5409 1879,5459 286,5483"/>
+                <Baseline points="286,5478 358,5478 447,5472 537,5466 626,5466 716,5466 805,5466 895,5460 984,5460 1074,5466 1163,5460 1253,5460 1342,5460 1432,5460 1521,5454 1611,5460 1700,5454 1790,5454 1879,5454"/>
+                <TextEquiv>
+                    <Unicode>inagisterio de la escuela pública de dicho pueblo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

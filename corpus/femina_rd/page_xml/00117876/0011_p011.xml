@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=421621:lm=provided:date=28_10_2025_13:22</Creator>
+        <Created>2025-10-28T12:29:36.400701</Created>
+        <LastChange>2025-10-28T13:22:14.568+01:00</LastChange>
+        <TranskribusMetadata docId="11368960" pageId="104387170" pageNr="11" tsid="259099784" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HDVQGJLHESQWMBBMGWZAYPBI" xmlUrl="https://files.transkribus.eu/Get?id=RRUDVMYHTTJUYEQTLNJLVRRW" imageId="87596980">
+            <PageLabel labelId="111" color="#00FA9A">Text Done</PageLabel>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0011_p011.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1781166443341" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1761650992"/>
+                <RegionRefIndexed index="1" regionRef="tr_1761650993"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1761650992" custom="readingOrder {index:0;}">
+            <Coords points="288,151 1056,151 1056,279 288,279"/>
+            <TextLine id="tr_1761650992_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="292,190 973,187 973,237 292,240"/>
+                <Baseline points="292,235 301,235 346,238 391,241 435,238 480,241 525,241 570,241 615,244 659,244 704,241 749,244 794,241 838,241 883,238 928,232 973,232"/>
+                <TextEquiv>
+                    <Unicode>FEMINA DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1761650993" custom="readingOrder {index:1;}">
+            <Coords points="246,3033 2143,3033 2143,3156 246,3156"/>
+            <TextLine id="tr_1761650993_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="229,3050 2104,3036 2104,3086 229,3100"/>
+                <Baseline points="229,3095 268,3098 313,3098 358,3095 403,3095 447,3095 492,3095 537,3095 582,3093 626,3095 671,3095 716,3095 761,3095 806,3093 850,3093 895,3093 940,3093 985,3090 1030,3090 1074,3087 1119,3087 1164,3090 1209,3090 1253,3087 1298,3087 1343,3087 1388,3084 1433,3084 1477,3084 1522,3084 1567,3084 1612,3084 1656,3084 1701,3084 1746,3084 1791,3084 1836,3084 1880,3081 1925,3081 1970,3081 2015,3081 2060,3081 2104,3081"/>
+                <TextEquiv>
+                    <Unicode>DOS VISTAS DE LA LLEGADA A STO. DOMINGO DEL DE LEGADO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1761650993_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="821,3092 1546,3086 1546,3136 821,3142"/>
+                <Baseline points="821,3137 829,3134 874,3137 919,3134 964,3134 1009,3137 1053,3137 1098,3134 1143,3134 1188,3134 1233,3134 1277,3131 1322,3131 1367,3128 1412,3131 1456,3131 1501,3131 1546,3131"/>
+                <TextEquiv>
+                    <Unicode>DE SU SANTIDAD BIO NI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
