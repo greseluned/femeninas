@@ -258,56 +258,6 @@ Gephi se utilizó para crear un grafo bipartito en el que:
 * las aristas conectan cada persona con las revistas en las que aparece;
 * el peso de la arista representa la frecuencia de aparición en una revista.
 
-### Importación en Gephi
-
-1. Abrir Gephi.
-2. Ir a `File → Import Spreadsheet`.
-3. Importar primero:
-
-```text
-gephi_edges_personas_revistas_es.csv
-```
-
-como `Edges table`.
-
-4. Importar después:
-
-```text
-gephi_nodes_personas_revistas_es.csv
-```
-
-como `Nodes table`.
-
-5. En `Overview`, aplicar un layout, por ejemplo:
-
-```text
-ForceAtlas 2
-```
-
-6. Colorear nodos por:
-
-```text
-node_type
-```
-
-7. Colorear aristas por:
-
-```text
-revista
-```
-
-8. Ajustar el tamaño de los nodos por:
-
-```text
-Degree
-```
-
-o, si se desea ponderar por número de menciones:
-
-```text
-Weighted Degree
-```
-
 ### Interpretación del grafo
 
 El grafo permite observar:
@@ -374,7 +324,7 @@ Para reproducir el flujo de trabajo:
 9. Importar en Gephi los archivos de nodos y aristas.
 10. Aplicar layout, colores, filtros y exportar los grafos.
 
-## Citas y referencias
+## Referencias
 
 ### NameTag
 
@@ -414,13 +364,4 @@ https://gephi.org/
 
 ## Licencia
 
-Indicar aquí la licencia del repositorio.
-
-Por ejemplo:
-
-```text
-CC BY 4.0 para los datos derivados y la documentación.
-MIT License para los scripts.
-```
-
-Antes de publicar los datos, conviene comprobar las condiciones de uso de los textos fuente, las imágenes o los OCR originales.
+https://creativecommons.org/licenses/by-nc/4.0/ 
