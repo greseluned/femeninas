@@ -14,7 +14,8 @@ import re
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 
-MERGED_DIR = BASE_DIR / "corpus_merged"
+# Colocar en "ruta_a_los_textos_originales" la carpeta con los archivos femina_merged.txt, filipinas_merged.txt y heraldo_merged.txt
+MERGED_DIR = BASE_DIR / "ruta_a_los_textos_originales"
 SALIDA_DIR = BASE_DIR / "corpus_por_frases"
 
 SALIDA_DIR.mkdir(exist_ok=True)
