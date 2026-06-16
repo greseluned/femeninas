@@ -12,6 +12,7 @@ foreach ($c in $corpus) {
     --input ".\topicos\topics_$($c).mallet" `
     --num-topics 10 `
     --optimize-interval 10 `
+    --random-seed 12345 `
     --output-topic-keys ".\claves_topicos\claves_topicos_$($c).txt" `
     --output-doc-topics ".\composicion_documentos\composicion_documentos_$($c).txt"
 }
