@@ -1,3 +1,6 @@
+# Importación del corpus a formato MALLET
+# Sustituir <usuario> por el nombre de usuario local de Windows
+
 $MALLET_HOME = "C:\Users\<usuario>\mallet"
 
 & "$MALLET_HOME\bin\mallet.bat" import-file `
