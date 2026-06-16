@@ -1,1 +1,17 @@
-$env:MALLET_HOME = "C:\Users\<usuario>\mallet" C:\Users\<usuario>\mallet\bin\mallet.bat train-topics --input nuevo_corpus/topics_filipinas.mallet --num-topics 10 --optimize-interval 10 --output-topic-keys nuevo_corpus/claves_topicos.txt --output-doc-topics nuevo_corpus/composicion_documentos.txt
+# Entrenamiento de modelos de tópicos con MALLET
+# Requiere tener MALLET instalado localmente y ajustar la ruta de $MALLET_HOME.
+# Ejecutar este script desde la carpeta:
+# 01_hd_clasicas/topic_modeling/mallet
+
+$MALLET_HOME = "C:\ruta\a\mallet"
+
+$corpus = @("femina", "filipinas", "heraldo")
+
+foreach ($c in $corpus) {
+  & "$MALLET_HOME\bin\mallet.bat" train-topics `
+    --input ".\topicos\topics_$($c).mallet" `
+    --num-topics 10 `
+    --optimize-interval 10 `
+    --output-topic-keys ".\claves_topicos\claves_topicos_$($c).txt" `
+    --output-doc-topics ".\composicion_documentos\composicion_documentos_$($c).txt"
+}
