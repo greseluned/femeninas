@@ -1,1 +1,9 @@
-C:\Users\<usuario>\mallet\bin\mallet.bat import-file --input nuevo_corpus\por_frases\heraldo_por_frases.txt --output nuevo_corpus\topics_heraldo.mallet --keep-sequence --remove-stopwords --stoplist-file "C:\Users\<usuario>\nuevo_corpus\stop-words.txt" --token-regex "\p{L}+"
+$MALLET_HOME = "C:\Users\<usuario>\mallet"
+
+& "$MALLET_HOME\bin\mallet.bat" import-file `
+  --input "nuevo_corpus\por_frases\heraldo_por_frases.txt" `
+  --output "nuevo_corpus\topics_heraldo.mallet" `
+  --keep-sequence `
+  --remove-stopwords `
+  --stoplist-file "nuevo_corpus\stop-words.txt" `
+  --token-regex "\p{L}+"
