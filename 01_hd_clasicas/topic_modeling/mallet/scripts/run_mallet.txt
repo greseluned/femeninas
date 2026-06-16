@@ -1,5 +1,5 @@
 # Entrenamiento de modelos de tópicos con MALLET
-# Requiere tener MALLET instalado localmente y ajustar la ruta de $MALLET_HOME.
+# Requiere tener MALLET instalado localmente y ajustar la ruta de $MALLET_HOME. Se recomienda usar `--random-seed 12345` si se desea que los resultados sean más fácilmente reproducibles entre ejecuciones.
 # Ejecutar este script desde la carpeta:
 # 01_hd_clasicas/topic_modeling/mallet
 
