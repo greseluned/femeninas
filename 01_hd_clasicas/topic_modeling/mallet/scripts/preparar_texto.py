@@ -12,10 +12,6 @@ en el modelado de temas.
 from pathlib import Path
 import re
 
-# Ejecutar este script desde cualquier ubicación.
-# Las rutas se calculan de forma relativa a la ubicación del propio script:
-# 01_hd_clasicas/topic_modeling/mallet/scripts/preparar_texto.py
-
 BASE_DIR = Path(__file__).resolve().parents[1]
 
 MERGED_DIR = BASE_DIR / "corpus_merged"
