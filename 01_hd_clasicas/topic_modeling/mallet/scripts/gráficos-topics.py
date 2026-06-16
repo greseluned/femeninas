@@ -1,95 +1,85 @@
+from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
-import os
 
-# Carpeta de trabajo
-carpeta_topics = r"C:\Users\Rocio\nuevo_corpus\topics"
+# Ejecutar este script desde:
+# 01_hd_clasicas/topic_modeling/mallet
+
+BASE_DIR = Path(__file__).resolve().parents[1]
+
+CLAVES_DIR = BASE_DIR / "claves_topicos"
+COMPOSICION_DIR = BASE_DIR / "composicion_documentos"
+GRAFICOS_DIR = BASE_DIR / "graficos"
+
+GRAFICOS_DIR.mkdir(exist_ok=True)
+
 periodicos = ["femina", "filipinas", "heraldo"]
 
-def obtener_top_10(texto_palabras):
-    if pd.isna(texto_palabras): return ""
-    lista = str(texto_palabras).split()
-    return ", ".join(lista[:10])
+for periodico in periodicos:
+    archivo_claves = CLAVES_DIR / f"claves_topicos_{periodico}.txt"
+    archivo_composicion = COMPOSICION_DIR / f"composicion_documentos_{periodico}.txt"
+    archivo_salida = GRAFICOS_DIR / f"grafico_topicos_{periodico}.png"
 
-# Procesamiento de datos reales
-for p in periodicos:
-    plt.close('all')
-    
-    ruta_claves = os.path.join(carpeta_topics, f"claves_topicos_{p}.txt")
-    ruta_docs = os.path.join(carpeta_topics, f"composicion_documentos_{p}.txt")
-    
-    print(f"Calculando el impacto real del periódico: {p.upper()}")
-    
-    # 1. Leer las palabras clave de los tópicos
-    df_claves = pd.read_csv(ruta_claves, sep="\t", names=["ID_Topico", "Falso_Peso", "Palabras_Clave"])
-    df_claves["Top_10_Palabras"] = df_claves["Palabras_Clave"].apply(obtener_top_10)
-    
-    # 2. PARSEO DEL ARCHIVO (Adaptado a tu formato secuencial de decimales)
-    totales_topicos = {}
-    total_frases = 0
-    
-    with open(ruta_docs, 'r', encoding='utf-8') as f:
+    # Leer claves de tópicos
+    topicos = {}
+    with open(archivo_claves, "r", encoding="utf-8") as f:
         for linea in f:
-            # Saltamos comentarios o líneas vacías
-            if linea.startswith('#') or not linea.strip():
-                continue
-            partes = linea.strip().split('\t')
-            if len(partes) < 3:
-                continue
-            
-            total_frases += 1
-            
-            # En tu formato: partes[0]=ID_Doc, partes[1]=Ruta, partes[2:]=Solo decimales
-            proporciones_decimales = partes[2:]
-            
-            # Recorremos los decimales. La posición 't_id' es automáticamente el número de tópico
-            for t_id, prop_str in enumerate(proporciones_decimales):
-                try:
-                    prop = float(prop_str)
-                    totales_topicos[t_id] = totales_topicos.get(t_id, 0.0) + prop
-                except ValueError:
-                    # Por si acaso MALLET mete algún texto extraño al final de la línea
-                    continue
+            partes = linea.strip().split("\t")
+            if len(partes) >= 3:
+                topic_id = int(partes[0])
+                palabras = partes[2]
+                topicos[topic_id] = palabras
 
-    # Calculamos la proporción media real
-    prevalencia_real = {t_id: suma_prop / total_frases for t_id, suma_prop in totales_topicos.items()}
-    
-    # Convertimos a DataFrame y unimos con las palabras clave
-    df_real = pd.DataFrame(list(prevalencia_real.items()), columns=["ID_Topico", "Prevalencia_Real"])
-    df_final = pd.merge(df_claves, df_real, on="ID_Topico")
-    
-    # Ordenamos por el impacto real en el texto
-    df_ordenado = df_final.sort_values(by="Prevalencia_Real", ascending=False)
-    
-    # Generamos la etiqueta del eje Y
-    df_ordenado["Etiqueta_Eje"] = df_ordenado.apply(
-        lambda row: f"Tópico {row['ID_Topico']}: {row['Top_10_Palabras']}", axis=1
+    # Leer composición documental
+    df = pd.read_csv(
+        archivo_composicion,
+        sep="\t",
+        header=None,
+        comment="#"
     )
 
-    # 3. Graficar la verdadera realidad del periódico
-    fig, ax = plt.subplots(figsize=(20, 10))
-    sns.set_theme(style="whitegrid")
-    
-    # Graficamos usando un degradado de azul (Oscuro para barras largas, claro para cortas)
-    sns.barplot(
-        x="Prevalencia_Real", 
-        y="Etiqueta_Eje", 
-        data=df_ordenado,
-        orient="h",
-        palette="Blues_r",
-        ax=ax
-    )
+    # En los archivos de MALLET, las dos primeras columnas suelen ser:
+    # 0 = identificador del documento
+    # 1 = nombre/ruta del documento
+    # A partir de la columna 2 aparecen pares topic_id / peso
+    topic_scores = {topic_id: 0 for topic_id in topicos.keys()}
+    topic_counts = {topic_id: 0 for topic_id in topicos.keys()}
 
-    ax.set_title(f"PREVALENCIA DE LOS TÓPICOS: {p.upper()}", fontsize=18, fontweight="bold", pad=20)
-    ax.set_xlabel("Proporción en el corpus (Media de presencia por frase)", fontsize=13, fontweight="bold")
-    ax.set_ylabel("Estructura del tópico (ID + Palabras Clave)", fontsize=13, fontweight="bold")
-    ax.tick_params(axis='y', labelsize=11) 
-    
+    for _, row in df.iterrows():
+        valores = row.iloc[2:].dropna().tolist()
+
+        for i in range(0, len(valores), 2):
+            topic_id = int(valores[i])
+            peso = float(valores[i + 1])
+
+            if topic_id in topic_scores:
+                topic_scores[topic_id] += peso
+                topic_counts[topic_id] += 1
+
+    prevalencias = {
+        topic_id: topic_scores[topic_id] / topic_counts[topic_id]
+        for topic_id in topic_scores
+        if topic_counts[topic_id] > 0
+    }
+
+    datos = pd.DataFrame({
+        "topic_id": list(prevalencias.keys()),
+        "prevalencia": list(prevalencias.values()),
+        "palabras": [topicos[topic_id] for topic_id in prevalencias.keys()]
+    })
+
+    datos = datos.sort_values("prevalencia", ascending=True)
+
+    plt.figure(figsize=(10, 6))
+    plt.barh(
+        datos["palabras"],
+        datos["prevalencia"]
+    )
+    plt.xlabel("Proporción en el corpus (media de presencia por frase)")
+    plt.ylabel("Tópico")
+    plt.title(f"Prevalencia de tópicos en {periodico}")
     plt.tight_layout()
-    
-    # Guardamos el gráfico corregido
-    plt.savefig(os.path.join(carpeta_topics, f"grafico_real_{p}.png"), dpi=300, bbox_inches='tight')
-    plt.show()
+    plt.savefig(archivo_salida, dpi=300)
+    plt.close()
 
-print("\n¡Proceso completado! Ya deberías ver los tres gráficos independientes en tu panel.")
+    print(f"Gráfico guardado: {archivo_salida}")
