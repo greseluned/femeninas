@@ -1,12 +1,18 @@
-# Importación del corpus a formato MALLET
-# Sustituir <usuario> por el nombre de usuario local de Windows
+# Importación de corpus a formato MALLET
+# Requiere tener MALLET instalado localmente y ajustar la ruta de $MALLET_HOME.
+# Ejecutar este script desde la carpeta:
+# 01_hd_clasicas/topic_modeling/mallet
 
-$MALLET_HOME = "C:\Users\<usuario>\mallet"
+$MALLET_HOME = "C:\ruta\a\mallet"
 
-& "$MALLET_HOME\bin\mallet.bat" import-file `
-  --input "nuevo_corpus\por_frases\heraldo_por_frases.txt" `
-  --output "nuevo_corpus\topics_heraldo.mallet" `
-  --keep-sequence `
-  --remove-stopwords `
-  --stoplist-file "nuevo_corpus\stop-words.txt" `
-  --token-regex "\p{L}+"
+$corpus = @("femina", "filipinas", "heraldo")
+
+foreach ($c in $corpus) {
+  & "$MALLET_HOME\bin\mallet.bat" import-file `
+    --input ".\corpus_por_frases\$($c)_por_frases.txt" `
+    --output ".\topicos\topics_$($c).mallet" `
+    --keep-sequence `
+    --remove-stopwords `
+    --stoplist-file ".\stop-words.txt" `
+    --token-regex "\p{L}+"
+}
