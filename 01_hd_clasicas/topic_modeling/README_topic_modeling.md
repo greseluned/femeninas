@@ -53,6 +53,24 @@ topic_modeling/
 
 ## Flujo de trabajo con MALLET
 
+## Reproducibilidad
+
+Para reproducir el análisis es necesario tener instalado MALLET localmente y ajustar la variable `$MALLET_HOME` en los scripts correspondientes. Las rutas personales han sido sustituidas por rutas relativas al repositorio o por rutas genéricas para evitar dependencias del entorno local de trabajo.
+
+El flujo completo de reproducción es el siguiente:
+
+1. Preparar los textos con `mallet/scripts/preparar_texto.py`.
+2. Importar los textos procesados a formato MALLET con `mallet/scripts/script_mallet.txt`.
+3. Entrenar los modelos de tópicos con `mallet/scripts/run_mallet.txt`.
+4. Generar los gráficos de prevalencia con `mallet/scripts/gráficos-topics.py`.
+5. Comparar los resultados con las exportaciones de Voyant Tools conservadas en `voyant/topicos/` y `voyant/pesos/`.
+
+Los resultados publicados en este directorio corresponden a tres corpus:
+
+- `femina`
+- `filipinas`
+- `heraldo`
+
 ### 1. Preparación del corpus por frases
 
 El script `mallet/scripts/preparar_texto.py` transforma un texto continuo en un archivo segmentado por frases. El proceso documentado en el script consiste en:
@@ -103,7 +121,7 @@ $env:MALLET_HOME = "C:\Users\...\mallet"
 
 C:\Users\...\mallet\bin\mallet.bat train-topics ^
   --input nuevo_corpus/topics_filipinas.mallet ^
-  --num-topics 15 ^
+  --num-topics 10 ^
   --optimize-interval 10 ^
   --output-topic-keys nuevo_corpus/claves_topicos.txt ^
   --output-doc-topics nuevo_corpus/composicion_documentos.txt
@@ -241,8 +259,8 @@ Pero predominan términos fragmentarios o ruidosos: `empre`, `abonaremos`, `roqu
 | Aspecto | MALLET | Voyant Tools |
 |---|---|---|
 | Tipo de uso | Modelado reproducible mediante comandos y scripts | Exploración visual e interactiva |
-| Unidad documentada | Frases, según `preparar_texto.py` y `gráficos-topics.py` | No queda documentada explícitamente en los archivos exportados |
-| Preprocesamiento visible | Sí: stopwords, token regex, segmentación por frases | Parcial: solo se conservan exportaciones |
+| Unidad documentada | Frases, según `preparar_texto.py` y `gráficos-topics.py` | No queda documentada explícitamente en los archivos exportados pero con la herramienta spyral y la exportación de enlaces es reproducible|
+| Preprocesamiento visible | Sí: stopwords, token regex, segmentación por frases | Parcial |
 | Resultados principales | Claves de tópicos, composición documental y prevalencia | Tópicos y pesos exportados |
 | Interpretabilidad | Mayor en los tres corpus, especialmente en `femina` y `heraldo` | Variable; más útil como exploración inicial |
 | Sensibilidad al ruido | Menor, aunque no lo elimina por completo | Mayor, sobre todo en `filipinas` y `heraldo` |
