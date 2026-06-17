@@ -304,7 +304,11 @@ python -m pip install torch transformers
 
 ## Metodología
 
-El análisis se realiza en dos fases.
+El análisis de sentimientos se realizó con `pysentimiento`, una biblioteca Python para minería de opinión y tareas de Social NLP. La biblioteca ofrece modelos preentrenados para análisis de sentimiento, detección de emociones, discurso de odio e ironía en varias lenguas, incluido el español. :contentReference[oaicite:0]{index=0}
+
+Para el español, este experimento utiliza RoBERTuito a través de `pysentimiento`. RoBERTuito es un modelo transformer de la familia RoBERTa, preentrenado sobre más de 500 millones de tuits en español y diseñado para texto generado por usuarios en redes sociales. :contentReference[oaicite:1]{index=1}
+
+Dado que el corpus de este proyecto está formado por prensa histórica de comienzos del siglo XX, el uso de RoBERTuito debe entenderse como un experimento exploratorio. El modelo no fue entrenado específicamente para prensa histórica, OCR ni español literario-periodístico de principios del siglo XX, por lo que los resultados deben contrastarse mediante revisión manual de ejemplos.El análisis se realiza en dos fases:
 
 ### Fase 1: clasificación de sentimiento
 
@@ -380,4 +384,10 @@ Para reproducir el análisis es necesario conservar:
 * las versiones de las dependencias utilizadas.
 
 Los resultados pueden variar si cambia la versión de `pysentimiento`, `transformers`, `torch` o el modelo descargado.
+
+## Bibliografía
+
+Pérez, Juan Manuel, Mariela Rajngewerc, Juan Carlos Giudici, Damián A. Furman, Franco Luque, Laura Alonso Alemany y María Vanina Martínez. “pysentimiento: A Python Toolkit for Opinion Mining and Social NLP Tasks”. arXiv, 2021. :contentReference[oaicite:2]{index=2}
+
+Pérez, Juan Manuel, Damián A. Furman, Laura Alonso Alemany y Franco Luque. “RoBERTuito: A Pre-Trained Language Model for Social Media Text in Spanish”. *Proceedings of the Language Resources and Evaluation Conference*, 2022. :contentReference[oaicite:3]{index=3}
 
