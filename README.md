@@ -91,36 +91,15 @@ corpus/
 
 Esta carpeta reúne los análisis realizados con métodos tradicionales de Humanidades Digitales.
 
-```text
-01_hd_clasicas/
-├── README.md
-├── scripts/
-└── results/
-```
-
 Incluye los siguientes tipos de análisis:
 
-* segmentación del OCR;
 * modelado de temas;
 * extracción de entidades nombradas;
-* normalización de entidades;
 * análisis de sentimientos;
-* visualización de resultados;
-* exportación de grafos para Gephi.
 
-## 6. `02_ia_abierta_gemma/`
+## 6. `02_ia_abierta/`
 
-Esta carpeta contiene los experimentos realizados con IA abierta. Hemos experimentado con **Gemma en AnythingLLM**.
-
-```text
-02_ia_abierta_gemma/
-├── README.md
-├── config/
-├── scripts/
-├── prompts/
-├── inputs/
-└── results/
-```
+Esta carpeta contiene los experimentos realizados con IA abierta. Hemos experimentado con **Gemma en AnythingLLM** y con RoBERTuito para el análisis de sentimientos.
 
 El objetivo de esta sección es documentar una aproximación con IA que sea más reproducible que las herramientas comerciales, en la medida en que se puede registrar:
 
@@ -134,48 +113,11 @@ El objetivo de esta sección es documentar una aproximación con IA que sea más
 * respuestas;
 * evidencias textuales;
 
-Los prompts se guardan en:
-
-```text
-02_ia_abierta_gemma/prompts/
-```
-
-Los resultados se guardan en:
-
-```text
-02_ia_abierta_gemma/results/
-├── respuestas_raw/
-├── respuestas_tablas/
-└── figures/
-```
+Los experimentos realizados son los mismos que en 01_hd_clasicas
 
 ## 7. `03_ia_comercial/`
 
 Esta carpeta contiene los experimentos realizados con sistemas comerciales de IA.
-
-```text
-03_ia_comercial/
-├── README.md
-├── notebooklm/
-└── otros_modelos_comerciales/
-```
-
-La subcarpeta `notebooklm/` permite guardar:
-
-* prompts;
-* documentos subidos;
-* configuración del notebook;
-* respuestas originales;
-* respuestas tabuladas;
-* citas y evidencias;
-
-```text
-03_ia_comercial/notebooklm/
-├── README.md
-├── prompts/
-├── inputs/
-└── results/
-```
 
 ## 8. `04_comparacion/`
 
@@ -197,9 +139,6 @@ Los aspectos comparados incluyen:
 * temas identificados;
 * entidades nombradas;
 * redes de personas;
-* presencia o ausencia de mujeres reales;
-* referencias a escritoras;
-* referencias al feminismo internacional;
 * discursos sobre patria, raza, religión, colonialismo y sufragio;
 * precisión;
 * exhaustividad;
@@ -210,15 +149,7 @@ Los aspectos comparados incluyen:
 
 ## 9. Prompts
 
-Los prompts se conservan dentro de la carpeta correspondiente a cada sistema de IA:
-
-```text
-02_ia_abierta_gemma/prompts/
-03_ia_comercial/notebooklm/prompts/
-03_ia_comercial/otros_modelos_comerciales/prompts/
-```
-
-Cada prompt debe guardarse como archivo `.md` independiente.
+Los prompts se conservan dentro de la carpeta correspondiente a cada sistema de IA```
 
 Además, cada sección de IA debe incluir un archivo `prompt_log.csv` con los siguientes campos:
 
