@@ -387,7 +387,7 @@ Los resultados pueden variar si cambia la versión de `pysentimiento`, `transfor
 
 ## Bibliografía
 
-Pérez, Juan Manuel, Mariela Rajngewerc, Juan Carlos Giudici, Damián A. Furman, Franco Luque, Laura Alonso Alemany y María Vanina Martínez. “pysentimiento: A Python Toolkit for Opinion Mining and Social NLP Tasks”. arXiv, 2021. :contentReference[oaicite:2]{index=2}
+Pérez, Juan Manuel, Mariela Rajngewerc, Juan Carlos Giudici, Damián A. Furman, Franco Luque, Laura Alonso Alemany y María Vanina Martínez. “pysentimiento: A Python Toolkit for Opinion Mining and Social NLP Tasks”. arXiv, 2021. https://doi.org/10.48550/arXiv.2106.09462 
 
-Pérez, Juan Manuel, Damián A. Furman, Laura Alonso Alemany y Franco Luque. “RoBERTuito: A Pre-Trained Language Model for Social Media Text in Spanish”. *Proceedings of the Language Resources and Evaluation Conference*, 2022. :contentReference[oaicite:3]{index=3}
+Pérez, Juan Manuel, Damián A. Furman, Laura Alonso Alemany y Franco Luque. “RoBERTuito: A Pre-Trained Language Model for Social Media Text in Spanish”. *Proceedings of the Language Resources and Evaluation Conference*, 2022. https://aclanthology.org/2022.lrec-1.785/
 
