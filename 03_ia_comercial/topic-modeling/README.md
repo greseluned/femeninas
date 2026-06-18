@@ -6,36 +6,36 @@ Este directorio reúne el proceso y los resultados de **modelado de temas** apli
 
 ```text
 topic_modeling/
-├── gemini-3-flash-preview/
-│   ├── results-similarity/
-│   │   ├── mallet/
-│   │   |   ├── fémina/
-|   |   |   |   ├── 1a-iter.csv
-|   |   |   |   ├── 2a-iter.csv
-|   |   |   |   ...
-|   |   |   |   └── 5a-iter.csv
-|   |   |   ├── filipinas/
-|   |   |   |   ├── 1a-iter.csv
-|   |   |   |   ...
-|   |   |   ├── general/
-|   |   |   |   ├── 1a-iter.csv
-|   |   |   |   ...
-|   |   |   └── heraldo/
-|   |   |       ├── 1a-iter.csv
-|   |   |       ...
-│   │   └── voyant/
-│   │       ├── fémina/
-|   |       |   ├── 1a-iter.csv
-|   |       |   ...
-|   |       ├── filipinas/
-|   |       |   ├── 1a-iter.csv
-|   |       |   ...
-|   |       ├── general/
-|   |       |   ├── 1a-iter.csv
-|   |       |   ...
-|   |       └── heraldo/
-|   |           ├── 1a-iter.csv
-|   |           ...
+└── gemini-3-flash-preview/
+    ├── results-similarity/
+    │   ├── mallet/
+    │   |   ├── fémina/
+    |   |   |   ├── 1a-iter.csv
+    |   |   |   ├── 2a-iter.csv
+    |   |   |   ...
+    |   |   |   └── 5a-iter.csv
+    |   |   ├── filipinas/
+    |   |   |   ├── 1a-iter.csv
+    |   |   |   ...
+    |   |   ├── general/
+    |   |   |   ├── 1a-iter.csv
+    |   |   |   ...
+    |   |   └── heraldo/
+    |   |       ├── 1a-iter.csv
+    |   |       ...
+    │   └── voyant/
+    │       ├── fémina/
+    |       |   ├── 1a-iter.csv
+    |       |   ...
+    |       ├── filipinas/
+    |       |   ├── 1a-iter.csv
+    |       |   ...
+    |       ├── general/
+    |       |   ├── 1a-iter.csv
+    |       |   ...
+    |       └── heraldo/
+    |           ├── 1a-iter.csv
+    |           ...
     └── topics/
         ├── fémina/
         |   ├── 1a-iter.csv
