@@ -1,6 +1,6 @@
 # Topic modeling con Gemma 4 E4B (AnythingLLM)
 
-Este directorio reúne el proceso y los resultados de **modelado de temas** aplicado a los tres corpus de revistas históricas en español (*Fémina*, *Filipinas* y *El Heraldo de la Mujer*), usando el modelo local **Gemma 4 E4B** a través de **AnythingLLM**.
+Este directorio reúne el proceso y los resultados de **modelado de temas** aplicado a los tres corpus de revistas históricas en español (*Fémina*, *Filipinas* y *Heraldo de la Mujer*), usando el modelo local **Gemma 4 E4B** a través de **AnythingLLM**.
 
 Se probaron dos modalidades de embedding (*chunk* y *pinned*) para comparar cómo la forma de suministrar el texto al modelo afecta a los tópicos extraídos.
 

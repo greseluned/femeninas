@@ -1,6 +1,6 @@
 # NER con Gemini 3 Flash Preview
 
-Este directorio contiene los resultados del reconocimiento de entidades nombradas (NER) aplicado a un corpus de revistas históricas femeninas en español: *Fémina*, *Filipinas* y *El Heraldo de la Mujer*. El objetivo es extraer y cuantificar las menciones de personas a lo largo de las publicaciones.
+Este directorio contiene los resultados del reconocimiento de entidades nombradas (NER) aplicado a un corpus de revistas históricas femeninas en español: *Fémina*, *Filipinas* y *Heraldo de la Mujer*. El objetivo es extraer y cuantificar las menciones de personas a lo largo de las publicaciones.
 
 El modelo utilizado es **Gemini 2.5 Flash Preview**, accedido a través de **Google AI Studio** con ajustes predeterminados.
 
