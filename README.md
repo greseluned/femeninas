@@ -109,7 +109,7 @@ Incluye los siguientes tipos de análisis:
 
 ## 6. `02_ia_abierta/`
 
-Esta carpeta contiene los experimentos realizados con IA abierta. Hemos experimentado con **Gemma en AnythingLLM** y con RoBERTuito para el análisis de sentimientos.
+Esta carpeta contiene los experimentos realizados con IA abierta. Hemos experimentado con **Gemma en AnythingLLM** para el modelado de tópicos y con **RoBERTuito** para el análisis de sentimientos.
 
 El objetivo de esta sección es documentar una aproximación con IA que sea más reproducible que las herramientas comerciales, en la medida en que se puede registrar:
 
