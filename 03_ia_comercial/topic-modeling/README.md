@@ -1,4 +1,4 @@
-# Topic modeling
+# Topic modeling con Gemini 3 Flash Preview
 
 Este directorio reúne el proceso y los resultados de **modelado de temas** aplicado a los tres corpus de revistas históricas en español (*Fémina*, *Filipinas* y *El Heraldo de la Mujer*).
 
