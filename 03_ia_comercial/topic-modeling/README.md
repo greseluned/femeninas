@@ -61,7 +61,7 @@ Los textos analizados son los archivos `.txt` de transcripciones generadas con *
 
 ### 2. Modelado de temas con Gemini
 
-El modelado se realizó en **Google AI Studio** con el modelo **Gemini 2.0 Flash Preview**, usando la configuración predeterminada de la plataforma. Se empleó el mismo prompt para todas las iteraciones y publicaciones, disponible en `03_ia_comercial/prompts/prompt-topic.txt`. El prompt solicitaba la salida en formato CSV con tres campos por tópico:
+El modelado se realizó en **Google AI Studio** con el modelo **Gemini 3.0 Flash Preview**, usando la configuración predeterminada de la plataforma. Se empleó el mismo prompt para todas las iteraciones y publicaciones, disponible en `03_ia_comercial/prompts/prompt-topic.txt`. El prompt solicitaba la salida en formato CSV con tres campos por tópico:
 
 - `nombre-tópico`: etiqueta descriptiva del tema
 - `palabras-clave`: 8 palabras representativas
@@ -88,3 +88,5 @@ La comparación se realizó mediante dos métricas de similitud coseno complemen
 | **Similitud semántica** | Comparación de embeddings generados con `paraphrase-multilingual-MiniLM-L12-v2` (sentence-transformers), que captura proximidad de significado más allá de la coincidencia exacta de términos |
 
 En ambos casos, cada tópico LDA se empareja con el tópico de referencia más similar (dirección LDA → referencia). Los resultados se guardan en `results-similarity/voyant/<revista>/Xa-iter.csv` y `results-similarity/mallet/<revista>/Xa-iter.csv` respectivamente.
+
+---
