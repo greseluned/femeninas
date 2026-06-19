@@ -53,13 +53,9 @@ revistas-femeninas-hd-ia/
 │
 ├── corpus/
 ├── 01_hd_clasicas/
-├── 02_ia_abierta_gemma/
+├── 02_ia_abierta/
 ├── 03_ia_comercial/
-├── 04_comparacion_metodologica/
-├── docs/
-├── article/
-└── tests/
-```
+└── 04_comparacion/
 
 ## 4. `corpus/`
 
@@ -81,10 +77,22 @@ corpus/
 │   ├── alto_xml/
 │   └── txt/
 │
-└── heraldo_mujer_pr/
-    ├── jpg/
-    ├── alto_xml/
-    └── txt/
+├── heraldo_mujer_pr/
+│   ├── jpg/
+│   ├── alto_xml/
+│   └── txt/
+│
+├── merged/
+│   ├── ALL_MERGED.txt
+│   ├── femina_merged.txt
+│   ├── filipinas_merged.txt
+│   └── heraldo_merged.txt
+│
+└── por_frases
+    ├── README.md
+    ├── femina_por_frases.txt
+    ├── filipinas_por_frases.txt
+    └── heraldo_por_frases.txt
 ```
 
 ## 5. `01_hd_clasicas/`
