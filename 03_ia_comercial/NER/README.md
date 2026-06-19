@@ -13,11 +13,11 @@ El modelo utilizado es **Gemini 2.5 Flash Preview**, accedido a través de **Goo
 └── NER/
     └── gemini-3-flash-preview/
         └── results/
-        ├── personas-fémina.csv
-        ├── personas-filipinas.csv
-        ├── personas-general.csv
-        └── personas-heraldo.csv
-```
+            ├── personas-fémina.csv
+            ├── personas-filipinas.csv
+            ├── personas-general.csv
+            └── personas-heraldo.csv
+    ```
 ---
 
 ## Corpus de entrada
