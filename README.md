@@ -127,7 +127,7 @@ Los experimentos realizados son los mismos que en 01_hd_clasicas
 
 ## 7. `03_ia_comercial/`
 
-Esta carpeta contiene los experimentos realizados con sistemas comerciales de IA.
+Esta carpeta contiene los experimentos realizados con sistemas comerciales de IA. En concreto hemos trabajado con **Gemini 3 Flash** en su versión preliminar (preview).
 
 ## 8. `04_comparacion/`
 
