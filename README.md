@@ -57,6 +57,8 @@ revistas-femeninas-hd-ia/
 ├── 03_ia_comercial/
 └── 04_comparacion/
 
+```
+
 ## 4. `corpus/`
 
 Esta carpeta contiene el corpus de trabajo y los metadatos.
