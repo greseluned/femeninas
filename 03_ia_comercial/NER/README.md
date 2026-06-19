@@ -17,7 +17,7 @@ El modelo utilizado es **Gemini 2.5 Flash Preview**, accedido a través de **Goo
             ├── personas-filipinas.csv
             ├── personas-general.csv
             └── personas-heraldo.csv
-    ```
+```
 ---
 
 ## Corpus de entrada
