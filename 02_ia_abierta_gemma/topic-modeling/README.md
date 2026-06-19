@@ -104,14 +104,9 @@ Se probaron dos modalidades de embedding (*chunk* y *pinned*) para comparar cóm
 
 ### 1. Preparación del corpus
 
-Los textos analizados son los archivos `.txt` de transcripciones generadas con **Transkribus**, posteriormente unidos y reconstruidos mediante un script de Python que combina los archivos por publicación y repara artefactos de OCR habituales como guiones de partición de palabra (`-`, `¬`). El resultado es un único archivo de texto por revista, listo para el análisis.
+Los textos analizados son los archivos `.txt` de transcripciones generadas con **Transkribus**. Los resultados de este experimento provienen de documentos procesados **individualmente** (no del archivo unificado por revista), y en el caso de *Fémina* se incorporaron documentos adicionales que no forman parte del corpus definitivo del proyecto.
 
-> **Nota sobre el corpus utilizado:** Los resultados de este experimento provienen de documentos procesados **individualmente** (no del archivo unificado por revista), y en el caso de *Fémina* se incorporaron documentos adicionales que no forman parte del corpus definitivo del proyecto. Los corpus finales de referencia son:
-> - `corpus/femina_rd/` — *Fémina* (República Dominicana)
-> - `corpus/heraldo_mujer_pr/` — *El Heraldo de la Mujer* (Puerto Rico)
-> - `corpus/filipinas_ph/` — *Filipinas* (Filipinas)
->
-> Los resultados aquí recogidos deben interpretarse como **resultados preliminares**, obtenidos en una fase exploratoria anterior a la fijación definitiva del corpus.
+Los resultados aquí recogidos deben interpretarse como **resultados preliminares**, obtenidos en una fase exploratoria anterior a la fijación definitiva del corpus.
 
 ### 2. Modelado de temas con Gemma 4 E4B
 
