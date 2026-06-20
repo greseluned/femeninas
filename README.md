@@ -161,44 +161,7 @@ Los aspectos comparados incluyen:
 
 Los prompts se conservan dentro de la carpeta correspondiente a cada sistema de IA```
 
-Además, cada sección de IA debe incluir un archivo `prompt_log.csv` con los siguientes campos:
-
-```text
-id_prompt,
-fecha,
-herramienta,
-modelo,
-version_modelo,
-corpus_utilizado,
-documentos_incluidos,
-documentos_excluidos,
-prompt_file,
-output_file,
-observaciones
-```
-
-## 10. Ejemplo de prompt
-
-```text
-Responde únicamente basándote en los documentos del corpus.
-Si un tema no aparece explícitamente en los textos, no lo incluyas.
-No uses conocimiento externo.
-Si no encuentras suficiente evidencia textual para un tópico, indícalo explícitamente.
-
-Analiza cada una de las tres publicaciones del corpus —Fémina, Filipinas y El Heraldo de la Mujer— por separado.
-
-Para cada una, identifica los 8 temas principales siguiendo este procedimiento:
-
-1. Lista los 8 temas en orden de mayor a menor presencia en la revista.
-2. Para cada tema, proporciona exactamente 8 palabras clave representativas extraídas literalmente del texto.
-3. Indica para cada tema un porcentaje estimado de presencia respecto al total del contenido de esa publicación.
-4. Cita al menos 2 fragmentos textuales concretos que justifiquen cada tema, con indicación de la parte del documento en que aparecen.
-5. Devuelve los resultados en formato de tabla con estas columnas:
-
-Revista | Nº tópico | Nombre del tópico | Palabras clave | % presencia | Fragmentos de ejemplo
-```
-
-## 11. Criterios de evaluación
+## 10. Criterios de evaluación
 
 Los resultados de cada metodología se evaluarán con criterios comunes:
 
@@ -212,45 +175,11 @@ Los resultados de cada metodología se evaluarán con criterios comunes:
 | Sesgos            | Si el método privilegia ciertos documentos, páginas, entidades o temas.         |
 | Errores           | Si produce falsos positivos, omisiones, alucinaciones o asociaciones engañosas. |
 
-## 12. Reproducibilidad
-
-Para reproducir los análisis de Humanidades Digitales clásicas:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-Después, ejecutar los notebooks de la carpeta:
-
-```text
-01_hd_clasicas/notebooks/
-```
-
-Para reproducir los experimentos con Gemma en AnythingLLM, consultar:
-
-```text
-02_ia_abierta_gemma/config/
-02_ia_abierta_gemma/prompts/
-02_ia_abierta_gemma/inputs/
-```
-
-Para revisar los experimentos con IA comercial, consultar:
-
-```text
-03_ia_comercial/
-```
-
-En el caso de herramientas comerciales, la reproducibilidad puede ser parcial, por lo que se documentarán las condiciones de uso, los documentos subidos, la fecha del experimento y las respuestas obtenidas.
-
-## 13. Licencia
+## 10. Licencia
 
 https://creativecommons.org/licenses/by-nc/4.0/ 
 
-## 14. Cómo citar este repositorio
-
-Referencia provisional:
+## 11. Cómo citar este repositorio
 
 ```text
 Ortuño Casanova, Rocío, Vera-Rojas, María Teresa y Pirvu, Nuria.
