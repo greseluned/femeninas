@@ -187,7 +187,7 @@ Humanidades Digitales clásicas e Inteligencia Artificial en prensa femenina his
 Repositorio de datos, scripts, prompts y resultados para el estudio comparativo de Fémina, Filipinas y El Heraldo de la Mujer.
 ```
 
-## 15. Autoría
+## 12. Autoría
 
 * Rocío Ortuño Casanova
 * Nuria Pirvu
